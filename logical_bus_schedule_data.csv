@@ -1,0 +1,745 @@
+Route_ID,Origin,Destination,,Distance,Shift,Demand,Travel_Time,Bus_Type,Bus_Capacity
+1,Stop_9,Stop_17,"Stop_9, Stop_17, Stop_34, Stop_24, Stop_28, Stop_33, Stop_39, Stop_22, Stop_17",6,Morning Peak,65,19.49,I,60
+1,Stop_9,Stop_17,"Stop_9, Stop_17, Stop_34, Stop_24, Stop_28, Stop_33, Stop_39, Stop_22, Stop_17",6,Morning Peak,50,19.49,II,90
+1,Stop_9,Stop_17,"Stop_9, Stop_17, Stop_34, Stop_24, Stop_28, Stop_33, Stop_39, Stop_22, Stop_17",6,Morning Off-Peak,35,19.49,I,60
+1,Stop_9,Stop_17,"Stop_9, Stop_17, Stop_34, Stop_24, Stop_28, Stop_33, Stop_39, Stop_22, Stop_17",6,Morning Off-Peak,31,19.49,II,90
+1,Stop_9,Stop_17,"Stop_9, Stop_17, Stop_34, Stop_24, Stop_28, Stop_33, Stop_39, Stop_22, Stop_17",6,Evening Peak,31,19.49,I,60
+1,Stop_9,Stop_17,"Stop_9, Stop_17, Stop_34, Stop_24, Stop_28, Stop_33, Stop_39, Stop_22, Stop_17",6,Evening Peak,57,19.49,II,90
+1,Stop_9,Stop_17,"Stop_9, Stop_17, Stop_34, Stop_24, Stop_28, Stop_33, Stop_39, Stop_22, Stop_17",6,Evening Off-Peak,38,19.49,I,60
+1,Stop_9,Stop_17,"Stop_9, Stop_17, Stop_34, Stop_24, Stop_28, Stop_33, Stop_39, Stop_22, Stop_17",6,Evening Off-Peak,36,19.49,II,90
+2,Stop_17,Stop_14,"Stop_17, Stop_15, Stop_28, Stop_21, Stop_22, Stop_14",18,Morning Peak,28,28.2,I,60
+2,Stop_17,Stop_14,"Stop_17, Stop_15, Stop_28, Stop_21, Stop_22, Stop_14",18,Morning Peak,46,28.2,II,90
+2,Stop_17,Stop_14,"Stop_17, Stop_15, Stop_28, Stop_21, Stop_22, Stop_14",18,Morning Off-Peak,22,28.2,I,60
+2,Stop_17,Stop_14,"Stop_17, Stop_15, Stop_28, Stop_21, Stop_22, Stop_14",18,Morning Off-Peak,49,28.2,II,90
+2,Stop_17,Stop_14,"Stop_17, Stop_15, Stop_28, Stop_21, Stop_22, Stop_14",18,Evening Peak,39,28.2,I,60
+2,Stop_17,Stop_14,"Stop_17, Stop_15, Stop_28, Stop_21, Stop_22, Stop_14",18,Evening Peak,47,28.2,II,90
+2,Stop_17,Stop_14,"Stop_17, Stop_15, Stop_28, Stop_21, Stop_22, Stop_14",18,Evening Off-Peak,38,28.2,I,60
+2,Stop_17,Stop_14,"Stop_17, Stop_15, Stop_28, Stop_21, Stop_22, Stop_14",18,Evening Off-Peak,39,28.2,II,90
+3,Stop_14,Stop_14,"Stop_14, Stop_6, Stop_15, Stop_8, Stop_18, Stop_20, Stop_21, Stop_9, Stop_14",16,Morning Peak,35,26.66,I,60
+3,Stop_14,Stop_14,"Stop_14, Stop_6, Stop_15, Stop_8, Stop_18, Stop_20, Stop_21, Stop_9, Stop_14",16,Morning Peak,56,26.66,II,90
+3,Stop_14,Stop_14,"Stop_14, Stop_6, Stop_15, Stop_8, Stop_18, Stop_20, Stop_21, Stop_9, Stop_14",16,Morning Off-Peak,25,26.66,I,60
+3,Stop_14,Stop_14,"Stop_14, Stop_6, Stop_15, Stop_8, Stop_18, Stop_20, Stop_21, Stop_9, Stop_14",16,Morning Off-Peak,52,26.66,II,90
+3,Stop_14,Stop_14,"Stop_14, Stop_6, Stop_15, Stop_8, Stop_18, Stop_20, Stop_21, Stop_9, Stop_14",16,Evening Peak,35,26.66,I,60
+3,Stop_14,Stop_14,"Stop_14, Stop_6, Stop_15, Stop_8, Stop_18, Stop_20, Stop_21, Stop_9, Stop_14",16,Evening Peak,59,26.66,II,90
+3,Stop_14,Stop_14,"Stop_14, Stop_6, Stop_15, Stop_8, Stop_18, Stop_20, Stop_21, Stop_9, Stop_14",16,Evening Off-Peak,38,26.66,I,60
+3,Stop_14,Stop_14,"Stop_14, Stop_6, Stop_15, Stop_8, Stop_18, Stop_20, Stop_21, Stop_9, Stop_14",16,Evening Off-Peak,43,26.66,II,90
+4,Stop_14,Stop_23,"Stop_14, Stop_34, Stop_38, Stop_13, Stop_28, Stop_31, Stop_27, Stop_30, Stop_21, Stop_4, Stop_23",9,Morning Peak,20,18.54,I,60
+4,Stop_14,Stop_23,"Stop_14, Stop_34, Stop_38, Stop_13, Stop_28, Stop_31, Stop_27, Stop_30, Stop_21, Stop_4, Stop_23",9,Morning Peak,31,18.54,II,90
+4,Stop_14,Stop_23,"Stop_14, Stop_34, Stop_38, Stop_13, Stop_28, Stop_31, Stop_27, Stop_30, Stop_21, Stop_4, Stop_23",9,Morning Off-Peak,24,18.54,I,60
+4,Stop_14,Stop_23,"Stop_14, Stop_34, Stop_38, Stop_13, Stop_28, Stop_31, Stop_27, Stop_30, Stop_21, Stop_4, Stop_23",9,Morning Off-Peak,58,18.54,II,90
+4,Stop_14,Stop_23,"Stop_14, Stop_34, Stop_38, Stop_13, Stop_28, Stop_31, Stop_27, Stop_30, Stop_21, Stop_4, Stop_23",9,Evening Peak,37,18.54,I,60
+4,Stop_14,Stop_23,"Stop_14, Stop_34, Stop_38, Stop_13, Stop_28, Stop_31, Stop_27, Stop_30, Stop_21, Stop_4, Stop_23",9,Evening Peak,41,18.54,II,90
+4,Stop_14,Stop_23,"Stop_14, Stop_34, Stop_38, Stop_13, Stop_28, Stop_31, Stop_27, Stop_30, Stop_21, Stop_4, Stop_23",9,Evening Off-Peak,34,18.54,I,60
+4,Stop_14,Stop_23,"Stop_14, Stop_34, Stop_38, Stop_13, Stop_28, Stop_31, Stop_27, Stop_30, Stop_21, Stop_4, Stop_23",9,Evening Off-Peak,50,18.54,II,90
+5,Stop_23,Stop_22,"Stop_23, Stop_17, Stop_34, Stop_28, Stop_11, Stop_18, Stop_23, Stop_33, Stop_30, Stop_21, Stop_26, Stop_35, Stop_22, Stop_22",9,Morning Peak,34,20.76,I,60
+5,Stop_23,Stop_22,"Stop_23, Stop_17, Stop_34, Stop_28, Stop_11, Stop_18, Stop_23, Stop_33, Stop_30, Stop_21, Stop_26, Stop_35, Stop_22, Stop_22",9,Morning Peak,49,20.76,II,90
+5,Stop_23,Stop_22,"Stop_23, Stop_17, Stop_34, Stop_28, Stop_11, Stop_18, Stop_23, Stop_33, Stop_30, Stop_21, Stop_26, Stop_35, Stop_22, Stop_22",9,Morning Off-Peak,21,20.76,I,60
+5,Stop_23,Stop_22,"Stop_23, Stop_17, Stop_34, Stop_28, Stop_11, Stop_18, Stop_23, Stop_33, Stop_30, Stop_21, Stop_26, Stop_35, Stop_22, Stop_22",9,Morning Off-Peak,57,20.76,II,90
+5,Stop_23,Stop_22,"Stop_23, Stop_17, Stop_34, Stop_28, Stop_11, Stop_18, Stop_23, Stop_33, Stop_30, Stop_21, Stop_26, Stop_35, Stop_22, Stop_22",9,Evening Peak,28,20.76,I,60
+5,Stop_23,Stop_22,"Stop_23, Stop_17, Stop_34, Stop_28, Stop_11, Stop_18, Stop_23, Stop_33, Stop_30, Stop_21, Stop_26, Stop_35, Stop_22, Stop_22",9,Evening Peak,37,20.76,II,90
+5,Stop_23,Stop_22,"Stop_23, Stop_17, Stop_34, Stop_28, Stop_11, Stop_18, Stop_23, Stop_33, Stop_30, Stop_21, Stop_26, Stop_35, Stop_22, Stop_22",9,Evening Off-Peak,22,20.76,I,60
+5,Stop_23,Stop_22,"Stop_23, Stop_17, Stop_34, Stop_28, Stop_11, Stop_18, Stop_23, Stop_33, Stop_30, Stop_21, Stop_26, Stop_35, Stop_22, Stop_22",9,Evening Off-Peak,44,20.76,II,90
+6,Stop_22,Stop_31,"Stop_22, Stop_17, Stop_14, Stop_36, Stop_12, Stop_39, Stop_31",13,Morning Peak,32,29.75,I,60
+6,Stop_22,Stop_31,"Stop_22, Stop_17, Stop_14, Stop_36, Stop_12, Stop_39, Stop_31",13,Morning Peak,30,29.75,II,90
+6,Stop_22,Stop_31,"Stop_22, Stop_17, Stop_14, Stop_36, Stop_12, Stop_39, Stop_31",13,Morning Off-Peak,21,29.75,I,60
+6,Stop_22,Stop_31,"Stop_22, Stop_17, Stop_14, Stop_36, Stop_12, Stop_39, Stop_31",13,Morning Off-Peak,33,29.75,II,90
+6,Stop_22,Stop_31,"Stop_22, Stop_17, Stop_14, Stop_36, Stop_12, Stop_39, Stop_31",13,Evening Peak,22,29.75,I,60
+6,Stop_22,Stop_31,"Stop_22, Stop_17, Stop_14, Stop_36, Stop_12, Stop_39, Stop_31",13,Evening Peak,43,29.75,II,90
+6,Stop_22,Stop_31,"Stop_22, Stop_17, Stop_14, Stop_36, Stop_12, Stop_39, Stop_31",13,Evening Off-Peak,27,29.75,I,60
+6,Stop_22,Stop_31,"Stop_22, Stop_17, Stop_14, Stop_36, Stop_12, Stop_39, Stop_31",13,Evening Off-Peak,52,29.75,II,90
+7,Stop_31,Stop_29,"Stop_31, Stop_19, Stop_28, Stop_20, Stop_3, Stop_9, Stop_29",17,Morning Peak,28,26.5,I,60
+7,Stop_31,Stop_29,"Stop_31, Stop_19, Stop_28, Stop_20, Stop_3, Stop_9, Stop_29",17,Morning Peak,54,26.5,II,90
+7,Stop_31,Stop_29,"Stop_31, Stop_19, Stop_28, Stop_20, Stop_3, Stop_9, Stop_29",17,Morning Off-Peak,39,26.5,I,60
+7,Stop_31,Stop_29,"Stop_31, Stop_19, Stop_28, Stop_20, Stop_3, Stop_9, Stop_29",17,Morning Off-Peak,50,26.5,II,90
+7,Stop_31,Stop_29,"Stop_31, Stop_19, Stop_28, Stop_20, Stop_3, Stop_9, Stop_29",17,Evening Peak,36,26.5,I,60
+7,Stop_31,Stop_29,"Stop_31, Stop_19, Stop_28, Stop_20, Stop_3, Stop_9, Stop_29",17,Evening Peak,30,26.5,II,90
+7,Stop_31,Stop_29,"Stop_31, Stop_19, Stop_28, Stop_20, Stop_3, Stop_9, Stop_29",17,Evening Off-Peak,30,26.5,I,60
+7,Stop_31,Stop_29,"Stop_31, Stop_19, Stop_28, Stop_20, Stop_3, Stop_9, Stop_29",17,Evening Off-Peak,56,26.5,II,90
+8,Stop_29,Stop_14,"Stop_29, Stop_29, Stop_16, Stop_28, Stop_8, Stop_2, Stop_11, Stop_12, Stop_30, Stop_21, Stop_4, Stop_35, Stop_22, Stop_14",9,Morning Peak,24,15.77,I,60
+8,Stop_29,Stop_14,"Stop_29, Stop_29, Stop_16, Stop_28, Stop_8, Stop_2, Stop_11, Stop_12, Stop_30, Stop_21, Stop_4, Stop_35, Stop_22, Stop_14",9,Morning Peak,50,15.77,II,90
+8,Stop_29,Stop_14,"Stop_29, Stop_29, Stop_16, Stop_28, Stop_8, Stop_2, Stop_11, Stop_12, Stop_30, Stop_21, Stop_4, Stop_35, Stop_22, Stop_14",9,Morning Off-Peak,28,15.77,I,60
+8,Stop_29,Stop_14,"Stop_29, Stop_29, Stop_16, Stop_28, Stop_8, Stop_2, Stop_11, Stop_12, Stop_30, Stop_21, Stop_4, Stop_35, Stop_22, Stop_14",9,Morning Off-Peak,31,15.77,II,90
+8,Stop_29,Stop_14,"Stop_29, Stop_29, Stop_16, Stop_28, Stop_8, Stop_2, Stop_11, Stop_12, Stop_30, Stop_21, Stop_4, Stop_35, Stop_22, Stop_14",9,Evening Peak,34,15.77,I,60
+8,Stop_29,Stop_14,"Stop_29, Stop_29, Stop_16, Stop_28, Stop_8, Stop_2, Stop_11, Stop_12, Stop_30, Stop_21, Stop_4, Stop_35, Stop_22, Stop_14",9,Evening Peak,43,15.77,II,90
+8,Stop_29,Stop_14,"Stop_29, Stop_29, Stop_16, Stop_28, Stop_8, Stop_2, Stop_11, Stop_12, Stop_30, Stop_21, Stop_4, Stop_35, Stop_22, Stop_14",9,Evening Off-Peak,38,15.77,I,60
+8,Stop_29,Stop_14,"Stop_29, Stop_29, Stop_16, Stop_28, Stop_8, Stop_2, Stop_11, Stop_12, Stop_30, Stop_21, Stop_4, Stop_35, Stop_22, Stop_14",9,Evening Off-Peak,51,15.77,II,90
+9,Stop_14,Stop_30,"Stop_14, Stop_29, Stop_28, Stop_2, Stop_7, Stop_12, Stop_4, Stop_3, Stop_22, Stop_30",28,Morning Peak,28,25.82,I,60
+9,Stop_14,Stop_30,"Stop_14, Stop_29, Stop_28, Stop_2, Stop_7, Stop_12, Stop_4, Stop_3, Stop_22, Stop_30",28,Morning Peak,35,25.82,II,90
+9,Stop_14,Stop_30,"Stop_14, Stop_29, Stop_28, Stop_2, Stop_7, Stop_12, Stop_4, Stop_3, Stop_22, Stop_30",28,Morning Off-Peak,37,25.82,I,60
+9,Stop_14,Stop_30,"Stop_14, Stop_29, Stop_28, Stop_2, Stop_7, Stop_12, Stop_4, Stop_3, Stop_22, Stop_30",28,Morning Off-Peak,35,25.82,II,90
+9,Stop_14,Stop_30,"Stop_14, Stop_29, Stop_28, Stop_2, Stop_7, Stop_12, Stop_4, Stop_3, Stop_22, Stop_30",28,Evening Peak,38,25.82,I,60
+9,Stop_14,Stop_30,"Stop_14, Stop_29, Stop_28, Stop_2, Stop_7, Stop_12, Stop_4, Stop_3, Stop_22, Stop_30",28,Evening Peak,54,25.82,II,90
+9,Stop_14,Stop_30,"Stop_14, Stop_29, Stop_28, Stop_2, Stop_7, Stop_12, Stop_4, Stop_3, Stop_22, Stop_30",28,Evening Off-Peak,22,25.82,I,60
+9,Stop_14,Stop_30,"Stop_14, Stop_29, Stop_28, Stop_2, Stop_7, Stop_12, Stop_4, Stop_3, Stop_22, Stop_30",28,Evening Off-Peak,42,25.82,II,90
+10,Stop_30,Stop_23,"Stop_30, Stop_24, Stop_8, Stop_33, Stop_20, Stop_26, Stop_21, Stop_39, Stop_9, Stop_23",9,Morning Peak,36,16.06,I,60
+10,Stop_30,Stop_23,"Stop_30, Stop_24, Stop_8, Stop_33, Stop_20, Stop_26, Stop_21, Stop_39, Stop_9, Stop_23",9,Morning Peak,36,16.06,II,90
+10,Stop_30,Stop_23,"Stop_30, Stop_24, Stop_8, Stop_33, Stop_20, Stop_26, Stop_21, Stop_39, Stop_9, Stop_23",9,Morning Off-Peak,32,16.06,I,60
+10,Stop_30,Stop_23,"Stop_30, Stop_24, Stop_8, Stop_33, Stop_20, Stop_26, Stop_21, Stop_39, Stop_9, Stop_23",9,Morning Off-Peak,60,16.06,II,90
+10,Stop_30,Stop_23,"Stop_30, Stop_24, Stop_8, Stop_33, Stop_20, Stop_26, Stop_21, Stop_39, Stop_9, Stop_23",9,Evening Peak,32,16.06,I,60
+10,Stop_30,Stop_23,"Stop_30, Stop_24, Stop_8, Stop_33, Stop_20, Stop_26, Stop_21, Stop_39, Stop_9, Stop_23",9,Evening Peak,48,16.06,II,90
+10,Stop_30,Stop_23,"Stop_30, Stop_24, Stop_8, Stop_33, Stop_20, Stop_26, Stop_21, Stop_39, Stop_9, Stop_23",9,Evening Off-Peak,32,16.06,I,60
+10,Stop_30,Stop_23,"Stop_30, Stop_24, Stop_8, Stop_33, Stop_20, Stop_26, Stop_21, Stop_39, Stop_9, Stop_23",9,Evening Off-Peak,30,16.06,II,90
+11,Stop_23,Stop_38,"Stop_23, Stop_8, Stop_5, Stop_18, Stop_2, Stop_23, Stop_25, Stop_20, Stop_27, Stop_30, Stop_4, Stop_38",5,Morning Peak,37,19.78,I,60
+11,Stop_23,Stop_38,"Stop_23, Stop_8, Stop_5, Stop_18, Stop_2, Stop_23, Stop_25, Stop_20, Stop_27, Stop_30, Stop_4, Stop_38",5,Morning Peak,57,19.78,II,90
+11,Stop_23,Stop_38,"Stop_23, Stop_8, Stop_5, Stop_18, Stop_2, Stop_23, Stop_25, Stop_20, Stop_27, Stop_30, Stop_4, Stop_38",5,Morning Off-Peak,31,19.78,I,60
+11,Stop_23,Stop_38,"Stop_23, Stop_8, Stop_5, Stop_18, Stop_2, Stop_23, Stop_25, Stop_20, Stop_27, Stop_30, Stop_4, Stop_38",5,Morning Off-Peak,38,19.78,II,90
+11,Stop_23,Stop_38,"Stop_23, Stop_8, Stop_5, Stop_18, Stop_2, Stop_23, Stop_25, Stop_20, Stop_27, Stop_30, Stop_4, Stop_38",5,Evening Peak,28,19.78,I,60
+11,Stop_23,Stop_38,"Stop_23, Stop_8, Stop_5, Stop_18, Stop_2, Stop_23, Stop_25, Stop_20, Stop_27, Stop_30, Stop_4, Stop_38",5,Evening Peak,60,19.78,II,90
+11,Stop_23,Stop_38,"Stop_23, Stop_8, Stop_5, Stop_18, Stop_2, Stop_23, Stop_25, Stop_20, Stop_27, Stop_30, Stop_4, Stop_38",5,Evening Off-Peak,37,19.78,I,60
+11,Stop_23,Stop_38,"Stop_23, Stop_8, Stop_5, Stop_18, Stop_2, Stop_23, Stop_25, Stop_20, Stop_27, Stop_30, Stop_4, Stop_38",5,Evening Off-Peak,54,19.78,II,90
+12,Stop_38,Stop_30,"Stop_38, Stop_29, Stop_16, Stop_38, Stop_2, Stop_27, Stop_30, Stop_3, Stop_30",21,Morning Peak,31,26.09,I,60
+12,Stop_38,Stop_30,"Stop_38, Stop_29, Stop_16, Stop_38, Stop_2, Stop_27, Stop_30, Stop_3, Stop_30",21,Morning Peak,52,26.09,II,90
+12,Stop_38,Stop_30,"Stop_38, Stop_29, Stop_16, Stop_38, Stop_2, Stop_27, Stop_30, Stop_3, Stop_30",21,Morning Off-Peak,24,26.09,I,60
+12,Stop_38,Stop_30,"Stop_38, Stop_29, Stop_16, Stop_38, Stop_2, Stop_27, Stop_30, Stop_3, Stop_30",21,Morning Off-Peak,54,26.09,II,90
+12,Stop_38,Stop_30,"Stop_38, Stop_29, Stop_16, Stop_38, Stop_2, Stop_27, Stop_30, Stop_3, Stop_30",21,Evening Peak,25,26.09,I,60
+12,Stop_38,Stop_30,"Stop_38, Stop_29, Stop_16, Stop_38, Stop_2, Stop_27, Stop_30, Stop_3, Stop_30",21,Evening Peak,60,26.09,II,90
+12,Stop_38,Stop_30,"Stop_38, Stop_29, Stop_16, Stop_38, Stop_2, Stop_27, Stop_30, Stop_3, Stop_30",21,Evening Off-Peak,32,26.09,I,60
+12,Stop_38,Stop_30,"Stop_38, Stop_29, Stop_16, Stop_38, Stop_2, Stop_27, Stop_30, Stop_3, Stop_30",21,Evening Off-Peak,35,26.09,II,90
+13,Stop_30,Stop_22,"Stop_30, Stop_32, Stop_3, Stop_28, Stop_22",16,Morning Peak,27,28.67,I,60
+13,Stop_30,Stop_22,"Stop_30, Stop_32, Stop_3, Stop_28, Stop_22",16,Morning Peak,55,28.67,II,90
+13,Stop_30,Stop_22,"Stop_30, Stop_32, Stop_3, Stop_28, Stop_22",16,Morning Off-Peak,23,28.67,I,60
+13,Stop_30,Stop_22,"Stop_30, Stop_32, Stop_3, Stop_28, Stop_22",16,Morning Off-Peak,36,28.67,II,90
+13,Stop_30,Stop_22,"Stop_30, Stop_32, Stop_3, Stop_28, Stop_22",16,Evening Peak,24,28.67,I,60
+13,Stop_30,Stop_22,"Stop_30, Stop_32, Stop_3, Stop_28, Stop_22",16,Evening Peak,53,28.67,II,90
+13,Stop_30,Stop_22,"Stop_30, Stop_32, Stop_3, Stop_28, Stop_22",16,Evening Off-Peak,39,28.67,I,60
+13,Stop_30,Stop_22,"Stop_30, Stop_32, Stop_3, Stop_28, Stop_22",16,Evening Off-Peak,57,28.67,II,90
+14,Stop_22,Stop_21,"Stop_22, Stop_34, Stop_1, Stop_38, Stop_24, Stop_8, Stop_5, Stop_11, Stop_31, Stop_12, Stop_30, Stop_4, Stop_21",7,Morning Peak,23,17.25,I,60
+14,Stop_22,Stop_21,"Stop_22, Stop_34, Stop_1, Stop_38, Stop_24, Stop_8, Stop_5, Stop_11, Stop_31, Stop_12, Stop_30, Stop_4, Stop_21",7,Morning Peak,51,17.25,II,90
+14,Stop_22,Stop_21,"Stop_22, Stop_34, Stop_1, Stop_38, Stop_24, Stop_8, Stop_5, Stop_11, Stop_31, Stop_12, Stop_30, Stop_4, Stop_21",7,Morning Off-Peak,29,17.25,I,60
+14,Stop_22,Stop_21,"Stop_22, Stop_34, Stop_1, Stop_38, Stop_24, Stop_8, Stop_5, Stop_11, Stop_31, Stop_12, Stop_30, Stop_4, Stop_21",7,Morning Off-Peak,56,17.25,II,90
+14,Stop_22,Stop_21,"Stop_22, Stop_34, Stop_1, Stop_38, Stop_24, Stop_8, Stop_5, Stop_11, Stop_31, Stop_12, Stop_30, Stop_4, Stop_21",7,Evening Peak,29,17.25,I,60
+14,Stop_22,Stop_21,"Stop_22, Stop_34, Stop_1, Stop_38, Stop_24, Stop_8, Stop_5, Stop_11, Stop_31, Stop_12, Stop_30, Stop_4, Stop_21",7,Evening Peak,34,17.25,II,90
+14,Stop_22,Stop_21,"Stop_22, Stop_34, Stop_1, Stop_38, Stop_24, Stop_8, Stop_5, Stop_11, Stop_31, Stop_12, Stop_30, Stop_4, Stop_21",7,Evening Off-Peak,22,17.25,I,60
+14,Stop_22,Stop_21,"Stop_22, Stop_34, Stop_1, Stop_38, Stop_24, Stop_8, Stop_5, Stop_11, Stop_31, Stop_12, Stop_30, Stop_4, Stop_21",7,Evening Off-Peak,47,17.25,II,90
+15,Stop_21,Stop_39,"Stop_21, Stop_17, Stop_34, Stop_13, Stop_5, Stop_23, Stop_37, Stop_4, Stop_32, Stop_3, Stop_22, Stop_39",17,Morning Peak,36,28.81,I,60
+15,Stop_21,Stop_39,"Stop_21, Stop_17, Stop_34, Stop_13, Stop_5, Stop_23, Stop_37, Stop_4, Stop_32, Stop_3, Stop_22, Stop_39",17,Morning Peak,41,28.81,II,90
+15,Stop_21,Stop_39,"Stop_21, Stop_17, Stop_34, Stop_13, Stop_5, Stop_23, Stop_37, Stop_4, Stop_32, Stop_3, Stop_22, Stop_39",17,Morning Off-Peak,26,28.81,I,60
+15,Stop_21,Stop_39,"Stop_21, Stop_17, Stop_34, Stop_13, Stop_5, Stop_23, Stop_37, Stop_4, Stop_32, Stop_3, Stop_22, Stop_39",17,Morning Off-Peak,57,28.81,II,90
+15,Stop_21,Stop_39,"Stop_21, Stop_17, Stop_34, Stop_13, Stop_5, Stop_23, Stop_37, Stop_4, Stop_32, Stop_3, Stop_22, Stop_39",17,Evening Peak,22,28.81,I,60
+15,Stop_21,Stop_39,"Stop_21, Stop_17, Stop_34, Stop_13, Stop_5, Stop_23, Stop_37, Stop_4, Stop_32, Stop_3, Stop_22, Stop_39",17,Evening Peak,60,28.81,II,90
+15,Stop_21,Stop_39,"Stop_21, Stop_17, Stop_34, Stop_13, Stop_5, Stop_23, Stop_37, Stop_4, Stop_32, Stop_3, Stop_22, Stop_39",17,Evening Off-Peak,36,28.81,I,60
+15,Stop_21,Stop_39,"Stop_21, Stop_17, Stop_34, Stop_13, Stop_5, Stop_23, Stop_37, Stop_4, Stop_32, Stop_3, Stop_22, Stop_39",17,Evening Off-Peak,37,28.81,II,90
+16,Stop_39,Stop_36,"Stop_39, Stop_28, Stop_8, Stop_21, Stop_37, Stop_39, Stop_36",9,Morning Peak,23,17.78,I,60
+16,Stop_39,Stop_36,"Stop_39, Stop_28, Stop_8, Stop_21, Stop_37, Stop_39, Stop_36",9,Morning Peak,56,17.78,II,90
+16,Stop_39,Stop_36,"Stop_39, Stop_28, Stop_8, Stop_21, Stop_37, Stop_39, Stop_36",9,Morning Off-Peak,32,17.78,I,60
+16,Stop_39,Stop_36,"Stop_39, Stop_28, Stop_8, Stop_21, Stop_37, Stop_39, Stop_36",9,Morning Off-Peak,50,17.78,II,90
+16,Stop_39,Stop_36,"Stop_39, Stop_28, Stop_8, Stop_21, Stop_37, Stop_39, Stop_36",9,Evening Peak,24,17.78,I,60
+16,Stop_39,Stop_36,"Stop_39, Stop_28, Stop_8, Stop_21, Stop_37, Stop_39, Stop_36",9,Evening Peak,38,17.78,II,90
+16,Stop_39,Stop_36,"Stop_39, Stop_28, Stop_8, Stop_21, Stop_37, Stop_39, Stop_36",9,Evening Off-Peak,25,17.78,I,60
+16,Stop_39,Stop_36,"Stop_39, Stop_28, Stop_8, Stop_21, Stop_37, Stop_39, Stop_36",9,Evening Off-Peak,55,17.78,II,90
+17,Stop_36,Stop_16,"Stop_36, Stop_38, Stop_24, Stop_15, Stop_11, Stop_23, Stop_33, Stop_36, Stop_27, Stop_16",29,Morning Peak,36,24.01,I,60
+17,Stop_36,Stop_16,"Stop_36, Stop_38, Stop_24, Stop_15, Stop_11, Stop_23, Stop_33, Stop_36, Stop_27, Stop_16",29,Morning Peak,56,24.01,II,90
+17,Stop_36,Stop_16,"Stop_36, Stop_38, Stop_24, Stop_15, Stop_11, Stop_23, Stop_33, Stop_36, Stop_27, Stop_16",29,Morning Off-Peak,34,24.01,I,60
+17,Stop_36,Stop_16,"Stop_36, Stop_38, Stop_24, Stop_15, Stop_11, Stop_23, Stop_33, Stop_36, Stop_27, Stop_16",29,Morning Off-Peak,36,24.01,II,90
+17,Stop_36,Stop_16,"Stop_36, Stop_38, Stop_24, Stop_15, Stop_11, Stop_23, Stop_33, Stop_36, Stop_27, Stop_16",29,Evening Peak,28,24.01,I,60
+17,Stop_36,Stop_16,"Stop_36, Stop_38, Stop_24, Stop_15, Stop_11, Stop_23, Stop_33, Stop_36, Stop_27, Stop_16",29,Evening Peak,46,24.01,II,90
+17,Stop_36,Stop_16,"Stop_36, Stop_38, Stop_24, Stop_15, Stop_11, Stop_23, Stop_33, Stop_36, Stop_27, Stop_16",29,Evening Off-Peak,27,24.01,I,60
+17,Stop_36,Stop_16,"Stop_36, Stop_38, Stop_24, Stop_15, Stop_11, Stop_23, Stop_33, Stop_36, Stop_27, Stop_16",29,Evening Off-Peak,32,24.01,II,90
+18,Stop_16,Stop_25,"Stop_16, Stop_29, Stop_16, Stop_10, Stop_21, Stop_32, Stop_3, Stop_22, Stop_25",16,Morning Peak,22,16.87,I,60
+18,Stop_16,Stop_25,"Stop_16, Stop_29, Stop_16, Stop_10, Stop_21, Stop_32, Stop_3, Stop_22, Stop_25",16,Morning Peak,44,16.87,II,90
+18,Stop_16,Stop_25,"Stop_16, Stop_29, Stop_16, Stop_10, Stop_21, Stop_32, Stop_3, Stop_22, Stop_25",16,Morning Off-Peak,27,16.87,I,60
+18,Stop_16,Stop_25,"Stop_16, Stop_29, Stop_16, Stop_10, Stop_21, Stop_32, Stop_3, Stop_22, Stop_25",16,Morning Off-Peak,36,16.87,II,90
+18,Stop_16,Stop_25,"Stop_16, Stop_29, Stop_16, Stop_10, Stop_21, Stop_32, Stop_3, Stop_22, Stop_25",16,Evening Peak,20,16.87,I,60
+18,Stop_16,Stop_25,"Stop_16, Stop_29, Stop_16, Stop_10, Stop_21, Stop_32, Stop_3, Stop_22, Stop_25",16,Evening Peak,30,16.87,II,90
+18,Stop_16,Stop_25,"Stop_16, Stop_29, Stop_16, Stop_10, Stop_21, Stop_32, Stop_3, Stop_22, Stop_25",16,Evening Off-Peak,27,16.87,I,60
+18,Stop_16,Stop_25,"Stop_16, Stop_29, Stop_16, Stop_10, Stop_21, Stop_32, Stop_3, Stop_22, Stop_25",16,Evening Off-Peak,38,16.87,II,90
+19,Stop_25,Stop_13,"Stop_25, Stop_23, Stop_34, Stop_14, Stop_9, Stop_13",8,Morning Peak,25,15.26,I,60
+19,Stop_25,Stop_13,"Stop_25, Stop_23, Stop_34, Stop_14, Stop_9, Stop_13",8,Morning Peak,32,15.26,II,90
+19,Stop_25,Stop_13,"Stop_25, Stop_23, Stop_34, Stop_14, Stop_9, Stop_13",8,Morning Off-Peak,32,15.26,I,60
+19,Stop_25,Stop_13,"Stop_25, Stop_23, Stop_34, Stop_14, Stop_9, Stop_13",8,Morning Off-Peak,48,15.26,II,90
+19,Stop_25,Stop_13,"Stop_25, Stop_23, Stop_34, Stop_14, Stop_9, Stop_13",8,Evening Peak,21,15.26,I,60
+19,Stop_25,Stop_13,"Stop_25, Stop_23, Stop_34, Stop_14, Stop_9, Stop_13",8,Evening Peak,39,15.26,II,90
+19,Stop_25,Stop_13,"Stop_25, Stop_23, Stop_34, Stop_14, Stop_9, Stop_13",8,Evening Off-Peak,21,15.26,I,60
+19,Stop_25,Stop_13,"Stop_25, Stop_23, Stop_34, Stop_14, Stop_9, Stop_13",8,Evening Off-Peak,53,15.26,II,90
+20,Stop_13,Stop_12,"Stop_13, Stop_1, Stop_29, Stop_14, Stop_8, Stop_23, Stop_27, Stop_39, Stop_3, Stop_12",21,Morning Peak,32,24.95,I,60
+20,Stop_13,Stop_12,"Stop_13, Stop_1, Stop_29, Stop_14, Stop_8, Stop_23, Stop_27, Stop_39, Stop_3, Stop_12",21,Morning Peak,48,24.95,II,90
+20,Stop_13,Stop_12,"Stop_13, Stop_1, Stop_29, Stop_14, Stop_8, Stop_23, Stop_27, Stop_39, Stop_3, Stop_12",21,Morning Off-Peak,36,24.95,I,60
+20,Stop_13,Stop_12,"Stop_13, Stop_1, Stop_29, Stop_14, Stop_8, Stop_23, Stop_27, Stop_39, Stop_3, Stop_12",21,Morning Off-Peak,59,24.95,II,90
+20,Stop_13,Stop_12,"Stop_13, Stop_1, Stop_29, Stop_14, Stop_8, Stop_23, Stop_27, Stop_39, Stop_3, Stop_12",21,Evening Peak,27,24.95,I,60
+20,Stop_13,Stop_12,"Stop_13, Stop_1, Stop_29, Stop_14, Stop_8, Stop_23, Stop_27, Stop_39, Stop_3, Stop_12",21,Evening Peak,47,24.95,II,90
+20,Stop_13,Stop_12,"Stop_13, Stop_1, Stop_29, Stop_14, Stop_8, Stop_23, Stop_27, Stop_39, Stop_3, Stop_12",21,Evening Off-Peak,33,24.95,I,60
+20,Stop_13,Stop_12,"Stop_13, Stop_1, Stop_29, Stop_14, Stop_8, Stop_23, Stop_27, Stop_39, Stop_3, Stop_12",21,Evening Off-Peak,44,24.95,II,90
+21,Stop_12,Stop_14,"Stop_12, Stop_34, Stop_14, Stop_15, Stop_8, Stop_11, Stop_31, Stop_18, Stop_23, Stop_12, Stop_14",21,Morning Peak,37,22.23,I,60
+21,Stop_12,Stop_14,"Stop_12, Stop_34, Stop_14, Stop_15, Stop_8, Stop_11, Stop_31, Stop_18, Stop_23, Stop_12, Stop_14",21,Morning Peak,52,22.23,II,90
+21,Stop_12,Stop_14,"Stop_12, Stop_34, Stop_14, Stop_15, Stop_8, Stop_11, Stop_31, Stop_18, Stop_23, Stop_12, Stop_14",21,Morning Off-Peak,25,22.23,I,60
+21,Stop_12,Stop_14,"Stop_12, Stop_34, Stop_14, Stop_15, Stop_8, Stop_11, Stop_31, Stop_18, Stop_23, Stop_12, Stop_14",21,Morning Off-Peak,58,22.23,II,90
+21,Stop_12,Stop_14,"Stop_12, Stop_34, Stop_14, Stop_15, Stop_8, Stop_11, Stop_31, Stop_18, Stop_23, Stop_12, Stop_14",21,Evening Peak,20,22.23,I,60
+21,Stop_12,Stop_14,"Stop_12, Stop_34, Stop_14, Stop_15, Stop_8, Stop_11, Stop_31, Stop_18, Stop_23, Stop_12, Stop_14",21,Evening Peak,56,22.23,II,90
+21,Stop_12,Stop_14,"Stop_12, Stop_34, Stop_14, Stop_15, Stop_8, Stop_11, Stop_31, Stop_18, Stop_23, Stop_12, Stop_14",21,Evening Off-Peak,23,22.23,I,60
+21,Stop_12,Stop_14,"Stop_12, Stop_34, Stop_14, Stop_15, Stop_8, Stop_11, Stop_31, Stop_18, Stop_23, Stop_12, Stop_14",21,Evening Off-Peak,42,22.23,II,90
+22,Stop_14,Stop_26,"Stop_14, Stop_17, Stop_29, Stop_10, Stop_23, Stop_25, Stop_33, Stop_12, Stop_26, Stop_37, Stop_27, Stop_26",19,Morning Peak,30,29.67,I,60
+22,Stop_14,Stop_26,"Stop_14, Stop_17, Stop_29, Stop_10, Stop_23, Stop_25, Stop_33, Stop_12, Stop_26, Stop_37, Stop_27, Stop_26",19,Morning Peak,53,29.67,II,90
+22,Stop_14,Stop_26,"Stop_14, Stop_17, Stop_29, Stop_10, Stop_23, Stop_25, Stop_33, Stop_12, Stop_26, Stop_37, Stop_27, Stop_26",19,Morning Off-Peak,23,29.67,I,60
+22,Stop_14,Stop_26,"Stop_14, Stop_17, Stop_29, Stop_10, Stop_23, Stop_25, Stop_33, Stop_12, Stop_26, Stop_37, Stop_27, Stop_26",19,Morning Off-Peak,38,29.67,II,90
+22,Stop_14,Stop_26,"Stop_14, Stop_17, Stop_29, Stop_10, Stop_23, Stop_25, Stop_33, Stop_12, Stop_26, Stop_37, Stop_27, Stop_26",19,Evening Peak,38,29.67,I,60
+22,Stop_14,Stop_26,"Stop_14, Stop_17, Stop_29, Stop_10, Stop_23, Stop_25, Stop_33, Stop_12, Stop_26, Stop_37, Stop_27, Stop_26",19,Evening Peak,46,29.67,II,90
+22,Stop_14,Stop_26,"Stop_14, Stop_17, Stop_29, Stop_10, Stop_23, Stop_25, Stop_33, Stop_12, Stop_26, Stop_37, Stop_27, Stop_26",19,Evening Off-Peak,26,29.67,I,60
+22,Stop_14,Stop_26,"Stop_14, Stop_17, Stop_29, Stop_10, Stop_23, Stop_25, Stop_33, Stop_12, Stop_26, Stop_37, Stop_27, Stop_26",19,Evening Off-Peak,32,29.67,II,90
+23,Stop_26,Stop_24,"Stop_26, Stop_7, Stop_13, Stop_37, Stop_18, Stop_24",8,Morning Peak,35,18.8,I,60
+23,Stop_26,Stop_24,"Stop_26, Stop_7, Stop_13, Stop_37, Stop_18, Stop_24",8,Morning Peak,60,18.8,II,90
+23,Stop_26,Stop_24,"Stop_26, Stop_7, Stop_13, Stop_37, Stop_18, Stop_24",8,Morning Off-Peak,20,18.8,I,60
+23,Stop_26,Stop_24,"Stop_26, Stop_7, Stop_13, Stop_37, Stop_18, Stop_24",8,Morning Off-Peak,42,18.8,II,90
+23,Stop_26,Stop_24,"Stop_26, Stop_7, Stop_13, Stop_37, Stop_18, Stop_24",8,Evening Peak,27,18.8,I,60
+23,Stop_26,Stop_24,"Stop_26, Stop_7, Stop_13, Stop_37, Stop_18, Stop_24",8,Evening Peak,32,18.8,II,90
+23,Stop_26,Stop_24,"Stop_26, Stop_7, Stop_13, Stop_37, Stop_18, Stop_24",8,Evening Off-Peak,31,18.8,I,60
+23,Stop_26,Stop_24,"Stop_26, Stop_7, Stop_13, Stop_37, Stop_18, Stop_24",8,Evening Off-Peak,51,18.8,II,90
+24,Stop_24,Stop_31,"Stop_24, Stop_17, Stop_14, Stop_38, Stop_24, Stop_13, Stop_10, Stop_2, Stop_36, Stop_37, Stop_35, Stop_22, Stop_31",7,Morning Peak,34,13.95,I,60
+24,Stop_24,Stop_31,"Stop_24, Stop_17, Stop_14, Stop_38, Stop_24, Stop_13, Stop_10, Stop_2, Stop_36, Stop_37, Stop_35, Stop_22, Stop_31",7,Morning Peak,51,13.95,II,90
+24,Stop_24,Stop_31,"Stop_24, Stop_17, Stop_14, Stop_38, Stop_24, Stop_13, Stop_10, Stop_2, Stop_36, Stop_37, Stop_35, Stop_22, Stop_31",7,Morning Off-Peak,30,13.95,I,60
+24,Stop_24,Stop_31,"Stop_24, Stop_17, Stop_14, Stop_38, Stop_24, Stop_13, Stop_10, Stop_2, Stop_36, Stop_37, Stop_35, Stop_22, Stop_31",7,Morning Off-Peak,57,13.95,II,90
+24,Stop_24,Stop_31,"Stop_24, Stop_17, Stop_14, Stop_38, Stop_24, Stop_13, Stop_10, Stop_2, Stop_36, Stop_37, Stop_35, Stop_22, Stop_31",7,Evening Peak,39,13.95,I,60
+24,Stop_24,Stop_31,"Stop_24, Stop_17, Stop_14, Stop_38, Stop_24, Stop_13, Stop_10, Stop_2, Stop_36, Stop_37, Stop_35, Stop_22, Stop_31",7,Evening Peak,44,13.95,II,90
+24,Stop_24,Stop_31,"Stop_24, Stop_17, Stop_14, Stop_38, Stop_24, Stop_13, Stop_10, Stop_2, Stop_36, Stop_37, Stop_35, Stop_22, Stop_31",7,Evening Off-Peak,31,13.95,I,60
+24,Stop_24,Stop_31,"Stop_24, Stop_17, Stop_14, Stop_38, Stop_24, Stop_13, Stop_10, Stop_2, Stop_36, Stop_37, Stop_35, Stop_22, Stop_31",7,Evening Off-Peak,39,13.95,II,90
+25,Stop_31,Stop_19,"Stop_31, Stop_7, Stop_32, Stop_37, Stop_6, Stop_19",25,Morning Peak,26,26.05,I,60
+25,Stop_31,Stop_19,"Stop_31, Stop_7, Stop_32, Stop_37, Stop_6, Stop_19",25,Morning Peak,41,26.05,II,90
+25,Stop_31,Stop_19,"Stop_31, Stop_7, Stop_32, Stop_37, Stop_6, Stop_19",25,Morning Off-Peak,32,26.05,I,60
+25,Stop_31,Stop_19,"Stop_31, Stop_7, Stop_32, Stop_37, Stop_6, Stop_19",25,Morning Off-Peak,48,26.05,II,90
+25,Stop_31,Stop_19,"Stop_31, Stop_7, Stop_32, Stop_37, Stop_6, Stop_19",25,Evening Peak,27,26.05,I,60
+25,Stop_31,Stop_19,"Stop_31, Stop_7, Stop_32, Stop_37, Stop_6, Stop_19",25,Evening Peak,53,26.05,II,90
+25,Stop_31,Stop_19,"Stop_31, Stop_7, Stop_32, Stop_37, Stop_6, Stop_19",25,Evening Off-Peak,23,26.05,I,60
+25,Stop_31,Stop_19,"Stop_31, Stop_7, Stop_32, Stop_37, Stop_6, Stop_19",25,Evening Off-Peak,58,26.05,II,90
+26,Stop_19,Stop_23,"Stop_19, Stop_17, Stop_15, Stop_28, Stop_11, Stop_5, Stop_23, Stop_20, Stop_26, Stop_22, Stop_4, Stop_32, Stop_9, Stop_23",16,Morning Peak,29,29.92,I,60
+26,Stop_19,Stop_23,"Stop_19, Stop_17, Stop_15, Stop_28, Stop_11, Stop_5, Stop_23, Stop_20, Stop_26, Stop_22, Stop_4, Stop_32, Stop_9, Stop_23",16,Morning Peak,60,29.92,II,90
+26,Stop_19,Stop_23,"Stop_19, Stop_17, Stop_15, Stop_28, Stop_11, Stop_5, Stop_23, Stop_20, Stop_26, Stop_22, Stop_4, Stop_32, Stop_9, Stop_23",16,Morning Off-Peak,27,29.92,I,60
+26,Stop_19,Stop_23,"Stop_19, Stop_17, Stop_15, Stop_28, Stop_11, Stop_5, Stop_23, Stop_20, Stop_26, Stop_22, Stop_4, Stop_32, Stop_9, Stop_23",16,Morning Off-Peak,57,29.92,II,90
+26,Stop_19,Stop_23,"Stop_19, Stop_17, Stop_15, Stop_28, Stop_11, Stop_5, Stop_23, Stop_20, Stop_26, Stop_22, Stop_4, Stop_32, Stop_9, Stop_23",16,Evening Peak,36,29.92,I,60
+26,Stop_19,Stop_23,"Stop_19, Stop_17, Stop_15, Stop_28, Stop_11, Stop_5, Stop_23, Stop_20, Stop_26, Stop_22, Stop_4, Stop_32, Stop_9, Stop_23",16,Evening Peak,53,29.92,II,90
+26,Stop_19,Stop_23,"Stop_19, Stop_17, Stop_15, Stop_28, Stop_11, Stop_5, Stop_23, Stop_20, Stop_26, Stop_22, Stop_4, Stop_32, Stop_9, Stop_23",16,Evening Off-Peak,34,29.92,I,60
+26,Stop_19,Stop_23,"Stop_19, Stop_17, Stop_15, Stop_28, Stop_11, Stop_5, Stop_23, Stop_20, Stop_26, Stop_22, Stop_4, Stop_32, Stop_9, Stop_23",16,Evening Off-Peak,47,29.92,II,90
+27,Stop_23,Stop_15,"Stop_23, Stop_34, Stop_38, Stop_15, Stop_11, Stop_33, Stop_27, Stop_15",25,Morning Peak,25,30,I,60
+27,Stop_23,Stop_15,"Stop_23, Stop_34, Stop_38, Stop_15, Stop_11, Stop_33, Stop_27, Stop_15",25,Morning Peak,59,30,II,90
+27,Stop_23,Stop_15,"Stop_23, Stop_34, Stop_38, Stop_15, Stop_11, Stop_33, Stop_27, Stop_15",25,Morning Off-Peak,33,30,I,60
+27,Stop_23,Stop_15,"Stop_23, Stop_34, Stop_38, Stop_15, Stop_11, Stop_33, Stop_27, Stop_15",25,Morning Off-Peak,32,30,II,90
+27,Stop_23,Stop_15,"Stop_23, Stop_34, Stop_38, Stop_15, Stop_11, Stop_33, Stop_27, Stop_15",25,Evening Peak,27,30,I,60
+27,Stop_23,Stop_15,"Stop_23, Stop_34, Stop_38, Stop_15, Stop_11, Stop_33, Stop_27, Stop_15",25,Evening Peak,41,30,II,90
+27,Stop_23,Stop_15,"Stop_23, Stop_34, Stop_38, Stop_15, Stop_11, Stop_33, Stop_27, Stop_15",25,Evening Off-Peak,30,30,I,60
+27,Stop_23,Stop_15,"Stop_23, Stop_34, Stop_38, Stop_15, Stop_11, Stop_33, Stop_27, Stop_15",25,Evening Off-Peak,57,30,II,90
+28,Stop_15,Stop_26,"Stop_15, Stop_11, Stop_25, Stop_12, Stop_26, Stop_37, Stop_35, Stop_26",22,Morning Peak,25,26.06,I,60
+28,Stop_15,Stop_26,"Stop_15, Stop_11, Stop_25, Stop_12, Stop_26, Stop_37, Stop_35, Stop_26",22,Morning Peak,35,26.06,II,90
+28,Stop_15,Stop_26,"Stop_15, Stop_11, Stop_25, Stop_12, Stop_26, Stop_37, Stop_35, Stop_26",22,Morning Off-Peak,21,26.06,I,60
+28,Stop_15,Stop_26,"Stop_15, Stop_11, Stop_25, Stop_12, Stop_26, Stop_37, Stop_35, Stop_26",22,Morning Off-Peak,50,26.06,II,90
+28,Stop_15,Stop_26,"Stop_15, Stop_11, Stop_25, Stop_12, Stop_26, Stop_37, Stop_35, Stop_26",22,Evening Peak,27,26.06,I,60
+28,Stop_15,Stop_26,"Stop_15, Stop_11, Stop_25, Stop_12, Stop_26, Stop_37, Stop_35, Stop_26",22,Evening Peak,59,26.06,II,90
+28,Stop_15,Stop_26,"Stop_15, Stop_11, Stop_25, Stop_12, Stop_26, Stop_37, Stop_35, Stop_26",22,Evening Off-Peak,20,26.06,I,60
+28,Stop_15,Stop_26,"Stop_15, Stop_11, Stop_25, Stop_12, Stop_26, Stop_37, Stop_35, Stop_26",22,Evening Off-Peak,56,26.06,II,90
+29,Stop_26,Stop_32,"Stop_26, Stop_10, Stop_28, Stop_36, Stop_37, Stop_21, Stop_9, Stop_32",28,Morning Peak,27,24.63,I,60
+29,Stop_26,Stop_32,"Stop_26, Stop_10, Stop_28, Stop_36, Stop_37, Stop_21, Stop_9, Stop_32",28,Morning Peak,45,24.63,II,90
+29,Stop_26,Stop_32,"Stop_26, Stop_10, Stop_28, Stop_36, Stop_37, Stop_21, Stop_9, Stop_32",28,Morning Off-Peak,22,24.63,I,60
+29,Stop_26,Stop_32,"Stop_26, Stop_10, Stop_28, Stop_36, Stop_37, Stop_21, Stop_9, Stop_32",28,Morning Off-Peak,39,24.63,II,90
+29,Stop_26,Stop_32,"Stop_26, Stop_10, Stop_28, Stop_36, Stop_37, Stop_21, Stop_9, Stop_32",28,Evening Peak,21,24.63,I,60
+29,Stop_26,Stop_32,"Stop_26, Stop_10, Stop_28, Stop_36, Stop_37, Stop_21, Stop_9, Stop_32",28,Evening Peak,54,24.63,II,90
+29,Stop_26,Stop_32,"Stop_26, Stop_10, Stop_28, Stop_36, Stop_37, Stop_21, Stop_9, Stop_32",28,Evening Off-Peak,22,24.63,I,60
+29,Stop_26,Stop_32,"Stop_26, Stop_10, Stop_28, Stop_36, Stop_37, Stop_21, Stop_9, Stop_32",28,Evening Off-Peak,59,24.63,II,90
+30,Stop_32,Stop_17,"Stop_32, Stop_17, Stop_1, Stop_29, Stop_14, Stop_18, Stop_20, Stop_27, Stop_26, Stop_4, Stop_17",24,Morning Peak,30,26.66,I,60
+30,Stop_32,Stop_17,"Stop_32, Stop_17, Stop_1, Stop_29, Stop_14, Stop_18, Stop_20, Stop_27, Stop_26, Stop_4, Stop_17",24,Morning Peak,55,26.66,II,90
+30,Stop_32,Stop_17,"Stop_32, Stop_17, Stop_1, Stop_29, Stop_14, Stop_18, Stop_20, Stop_27, Stop_26, Stop_4, Stop_17",24,Morning Off-Peak,21,26.66,I,60
+30,Stop_32,Stop_17,"Stop_32, Stop_17, Stop_1, Stop_29, Stop_14, Stop_18, Stop_20, Stop_27, Stop_26, Stop_4, Stop_17",24,Morning Off-Peak,33,26.66,II,90
+30,Stop_32,Stop_17,"Stop_32, Stop_17, Stop_1, Stop_29, Stop_14, Stop_18, Stop_20, Stop_27, Stop_26, Stop_4, Stop_17",24,Evening Peak,38,26.66,I,60
+30,Stop_32,Stop_17,"Stop_32, Stop_17, Stop_1, Stop_29, Stop_14, Stop_18, Stop_20, Stop_27, Stop_26, Stop_4, Stop_17",24,Evening Peak,55,26.66,II,90
+30,Stop_32,Stop_17,"Stop_32, Stop_17, Stop_1, Stop_29, Stop_14, Stop_18, Stop_20, Stop_27, Stop_26, Stop_4, Stop_17",24,Evening Off-Peak,26,26.66,I,60
+30,Stop_32,Stop_17,"Stop_32, Stop_17, Stop_1, Stop_29, Stop_14, Stop_18, Stop_20, Stop_27, Stop_26, Stop_4, Stop_17",24,Evening Off-Peak,55,26.66,II,90
+31,Stop_17,Stop_14,"Stop_17, Stop_29, Stop_19, Stop_15, Stop_28, Stop_8, Stop_20, Stop_27, Stop_39, Stop_4, Stop_14",19,Morning Peak,20,25.21,I,60
+31,Stop_17,Stop_14,"Stop_17, Stop_29, Stop_19, Stop_15, Stop_28, Stop_8, Stop_20, Stop_27, Stop_39, Stop_4, Stop_14",19,Morning Peak,56,25.21,II,90
+31,Stop_17,Stop_14,"Stop_17, Stop_29, Stop_19, Stop_15, Stop_28, Stop_8, Stop_20, Stop_27, Stop_39, Stop_4, Stop_14",19,Morning Off-Peak,21,25.21,I,60
+31,Stop_17,Stop_14,"Stop_17, Stop_29, Stop_19, Stop_15, Stop_28, Stop_8, Stop_20, Stop_27, Stop_39, Stop_4, Stop_14",19,Morning Off-Peak,39,25.21,II,90
+31,Stop_17,Stop_14,"Stop_17, Stop_29, Stop_19, Stop_15, Stop_28, Stop_8, Stop_20, Stop_27, Stop_39, Stop_4, Stop_14",19,Evening Peak,36,25.21,I,60
+31,Stop_17,Stop_14,"Stop_17, Stop_29, Stop_19, Stop_15, Stop_28, Stop_8, Stop_20, Stop_27, Stop_39, Stop_4, Stop_14",19,Evening Peak,49,25.21,II,90
+31,Stop_17,Stop_14,"Stop_17, Stop_29, Stop_19, Stop_15, Stop_28, Stop_8, Stop_20, Stop_27, Stop_39, Stop_4, Stop_14",19,Evening Off-Peak,28,25.21,I,60
+31,Stop_17,Stop_14,"Stop_17, Stop_29, Stop_19, Stop_15, Stop_28, Stop_8, Stop_20, Stop_27, Stop_39, Stop_4, Stop_14",19,Evening Off-Peak,57,25.21,II,90
+32,Stop_14,Stop_35,"Stop_14, Stop_38, Stop_28, Stop_7, Stop_20, Stop_12, Stop_36, Stop_21, Stop_39, Stop_4, Stop_3, Stop_22, Stop_35",19,Morning Peak,32,26.4,I,60
+32,Stop_14,Stop_35,"Stop_14, Stop_38, Stop_28, Stop_7, Stop_20, Stop_12, Stop_36, Stop_21, Stop_39, Stop_4, Stop_3, Stop_22, Stop_35",19,Morning Peak,59,26.4,II,90
+32,Stop_14,Stop_35,"Stop_14, Stop_38, Stop_28, Stop_7, Stop_20, Stop_12, Stop_36, Stop_21, Stop_39, Stop_4, Stop_3, Stop_22, Stop_35",19,Morning Off-Peak,35,26.4,I,60
+32,Stop_14,Stop_35,"Stop_14, Stop_38, Stop_28, Stop_7, Stop_20, Stop_12, Stop_36, Stop_21, Stop_39, Stop_4, Stop_3, Stop_22, Stop_35",19,Morning Off-Peak,54,26.4,II,90
+32,Stop_14,Stop_35,"Stop_14, Stop_38, Stop_28, Stop_7, Stop_20, Stop_12, Stop_36, Stop_21, Stop_39, Stop_4, Stop_3, Stop_22, Stop_35",19,Evening Peak,34,26.4,I,60
+32,Stop_14,Stop_35,"Stop_14, Stop_38, Stop_28, Stop_7, Stop_20, Stop_12, Stop_36, Stop_21, Stop_39, Stop_4, Stop_3, Stop_22, Stop_35",19,Evening Peak,45,26.4,II,90
+32,Stop_14,Stop_35,"Stop_14, Stop_38, Stop_28, Stop_7, Stop_20, Stop_12, Stop_36, Stop_21, Stop_39, Stop_4, Stop_3, Stop_22, Stop_35",19,Evening Off-Peak,27,26.4,I,60
+32,Stop_14,Stop_35,"Stop_14, Stop_38, Stop_28, Stop_7, Stop_20, Stop_12, Stop_36, Stop_21, Stop_39, Stop_4, Stop_3, Stop_22, Stop_35",19,Evening Off-Peak,52,26.4,II,90
+33,Stop_35,Stop_37,"Stop_35, Stop_17, Stop_32, Stop_11, Stop_9, Stop_37",14,Morning Peak,36,27.75,I,60
+33,Stop_35,Stop_37,"Stop_35, Stop_17, Stop_32, Stop_11, Stop_9, Stop_37",14,Morning Peak,44,27.75,II,90
+33,Stop_35,Stop_37,"Stop_35, Stop_17, Stop_32, Stop_11, Stop_9, Stop_37",14,Morning Off-Peak,24,27.75,I,60
+33,Stop_35,Stop_37,"Stop_35, Stop_17, Stop_32, Stop_11, Stop_9, Stop_37",14,Morning Off-Peak,54,27.75,II,90
+33,Stop_35,Stop_37,"Stop_35, Stop_17, Stop_32, Stop_11, Stop_9, Stop_37",14,Evening Peak,28,27.75,I,60
+33,Stop_35,Stop_37,"Stop_35, Stop_17, Stop_32, Stop_11, Stop_9, Stop_37",14,Evening Peak,37,27.75,II,90
+33,Stop_35,Stop_37,"Stop_35, Stop_17, Stop_32, Stop_11, Stop_9, Stop_37",14,Evening Off-Peak,25,27.75,I,60
+33,Stop_35,Stop_37,"Stop_35, Stop_17, Stop_32, Stop_11, Stop_9, Stop_37",14,Evening Off-Peak,55,27.75,II,90
+34,Stop_37,Stop_35,"Stop_37, Stop_34, Stop_29, Stop_9, Stop_35",17,Morning Peak,39,29.13,I,60
+34,Stop_37,Stop_35,"Stop_37, Stop_34, Stop_29, Stop_9, Stop_35",17,Morning Peak,46,29.13,II,90
+34,Stop_37,Stop_35,"Stop_37, Stop_34, Stop_29, Stop_9, Stop_35",17,Morning Off-Peak,35,29.13,I,60
+34,Stop_37,Stop_35,"Stop_37, Stop_34, Stop_29, Stop_9, Stop_35",17,Morning Off-Peak,30,29.13,II,90
+34,Stop_37,Stop_35,"Stop_37, Stop_34, Stop_29, Stop_9, Stop_35",17,Evening Peak,34,29.13,I,60
+34,Stop_37,Stop_35,"Stop_37, Stop_34, Stop_29, Stop_9, Stop_35",17,Evening Peak,33,29.13,II,90
+34,Stop_37,Stop_35,"Stop_37, Stop_34, Stop_29, Stop_9, Stop_35",17,Evening Off-Peak,30,29.13,I,60
+34,Stop_37,Stop_35,"Stop_37, Stop_34, Stop_29, Stop_9, Stop_35",17,Evening Off-Peak,43,29.13,II,90
+35,Stop_35,Stop_12,"Stop_35, Stop_1, Stop_29, Stop_19, Stop_24, Stop_5, Stop_33, Stop_4, Stop_6, Stop_12",20,Morning Peak,32,27.25,I,60
+35,Stop_35,Stop_12,"Stop_35, Stop_1, Stop_29, Stop_19, Stop_24, Stop_5, Stop_33, Stop_4, Stop_6, Stop_12",20,Morning Peak,41,27.25,II,90
+35,Stop_35,Stop_12,"Stop_35, Stop_1, Stop_29, Stop_19, Stop_24, Stop_5, Stop_33, Stop_4, Stop_6, Stop_12",20,Morning Off-Peak,39,27.25,I,60
+35,Stop_35,Stop_12,"Stop_35, Stop_1, Stop_29, Stop_19, Stop_24, Stop_5, Stop_33, Stop_4, Stop_6, Stop_12",20,Morning Off-Peak,52,27.25,II,90
+35,Stop_35,Stop_12,"Stop_35, Stop_1, Stop_29, Stop_19, Stop_24, Stop_5, Stop_33, Stop_4, Stop_6, Stop_12",20,Evening Peak,38,27.25,I,60
+35,Stop_35,Stop_12,"Stop_35, Stop_1, Stop_29, Stop_19, Stop_24, Stop_5, Stop_33, Stop_4, Stop_6, Stop_12",20,Evening Peak,36,27.25,II,90
+35,Stop_35,Stop_12,"Stop_35, Stop_1, Stop_29, Stop_19, Stop_24, Stop_5, Stop_33, Stop_4, Stop_6, Stop_12",20,Evening Off-Peak,22,27.25,I,60
+35,Stop_35,Stop_12,"Stop_35, Stop_1, Stop_29, Stop_19, Stop_24, Stop_5, Stop_33, Stop_4, Stop_6, Stop_12",20,Evening Off-Peak,48,27.25,II,90
+36,Stop_12,Stop_26,"Stop_12, Stop_17, Stop_11, Stop_5, Stop_33, Stop_27, Stop_12, Stop_6, Stop_26",29,Morning Peak,24,28.96,I,60
+36,Stop_12,Stop_26,"Stop_12, Stop_17, Stop_11, Stop_5, Stop_33, Stop_27, Stop_12, Stop_6, Stop_26",29,Morning Peak,30,28.96,II,90
+36,Stop_12,Stop_26,"Stop_12, Stop_17, Stop_11, Stop_5, Stop_33, Stop_27, Stop_12, Stop_6, Stop_26",29,Morning Off-Peak,28,28.96,I,60
+36,Stop_12,Stop_26,"Stop_12, Stop_17, Stop_11, Stop_5, Stop_33, Stop_27, Stop_12, Stop_6, Stop_26",29,Morning Off-Peak,56,28.96,II,90
+36,Stop_12,Stop_26,"Stop_12, Stop_17, Stop_11, Stop_5, Stop_33, Stop_27, Stop_12, Stop_6, Stop_26",29,Evening Peak,26,28.96,I,60
+36,Stop_12,Stop_26,"Stop_12, Stop_17, Stop_11, Stop_5, Stop_33, Stop_27, Stop_12, Stop_6, Stop_26",29,Evening Peak,49,28.96,II,90
+36,Stop_12,Stop_26,"Stop_12, Stop_17, Stop_11, Stop_5, Stop_33, Stop_27, Stop_12, Stop_6, Stop_26",29,Evening Off-Peak,33,28.96,I,60
+36,Stop_12,Stop_26,"Stop_12, Stop_17, Stop_11, Stop_5, Stop_33, Stop_27, Stop_12, Stop_6, Stop_26",29,Evening Off-Peak,51,28.96,II,90
+37,Stop_26,Stop_39,"Stop_26, Stop_17, Stop_29, Stop_10, Stop_8, Stop_2, Stop_18, Stop_5, Stop_26, Stop_6, Stop_39",13,Morning Peak,39,29.09,I,60
+37,Stop_26,Stop_39,"Stop_26, Stop_17, Stop_29, Stop_10, Stop_8, Stop_2, Stop_18, Stop_5, Stop_26, Stop_6, Stop_39",13,Morning Peak,46,29.09,II,90
+37,Stop_26,Stop_39,"Stop_26, Stop_17, Stop_29, Stop_10, Stop_8, Stop_2, Stop_18, Stop_5, Stop_26, Stop_6, Stop_39",13,Morning Off-Peak,22,29.09,I,60
+37,Stop_26,Stop_39,"Stop_26, Stop_17, Stop_29, Stop_10, Stop_8, Stop_2, Stop_18, Stop_5, Stop_26, Stop_6, Stop_39",13,Morning Off-Peak,32,29.09,II,90
+37,Stop_26,Stop_39,"Stop_26, Stop_17, Stop_29, Stop_10, Stop_8, Stop_2, Stop_18, Stop_5, Stop_26, Stop_6, Stop_39",13,Evening Peak,29,29.09,I,60
+37,Stop_26,Stop_39,"Stop_26, Stop_17, Stop_29, Stop_10, Stop_8, Stop_2, Stop_18, Stop_5, Stop_26, Stop_6, Stop_39",13,Evening Peak,60,29.09,II,90
+37,Stop_26,Stop_39,"Stop_26, Stop_17, Stop_29, Stop_10, Stop_8, Stop_2, Stop_18, Stop_5, Stop_26, Stop_6, Stop_39",13,Evening Off-Peak,34,29.09,I,60
+37,Stop_26,Stop_39,"Stop_26, Stop_17, Stop_29, Stop_10, Stop_8, Stop_2, Stop_18, Stop_5, Stop_26, Stop_6, Stop_39",13,Evening Off-Peak,38,29.09,II,90
+38,Stop_39,Stop_29,"Stop_39, Stop_34, Stop_2, Stop_30, Stop_3, Stop_35, Stop_22, Stop_29",10,Morning Peak,29,17.51,I,60
+38,Stop_39,Stop_29,"Stop_39, Stop_34, Stop_2, Stop_30, Stop_3, Stop_35, Stop_22, Stop_29",10,Morning Peak,45,17.51,II,90
+38,Stop_39,Stop_29,"Stop_39, Stop_34, Stop_2, Stop_30, Stop_3, Stop_35, Stop_22, Stop_29",10,Morning Off-Peak,23,17.51,I,60
+38,Stop_39,Stop_29,"Stop_39, Stop_34, Stop_2, Stop_30, Stop_3, Stop_35, Stop_22, Stop_29",10,Morning Off-Peak,58,17.51,II,90
+38,Stop_39,Stop_29,"Stop_39, Stop_34, Stop_2, Stop_30, Stop_3, Stop_35, Stop_22, Stop_29",10,Evening Peak,29,17.51,I,60
+38,Stop_39,Stop_29,"Stop_39, Stop_34, Stop_2, Stop_30, Stop_3, Stop_35, Stop_22, Stop_29",10,Evening Peak,51,17.51,II,90
+38,Stop_39,Stop_29,"Stop_39, Stop_34, Stop_2, Stop_30, Stop_3, Stop_35, Stop_22, Stop_29",10,Evening Off-Peak,23,17.51,I,60
+38,Stop_39,Stop_29,"Stop_39, Stop_34, Stop_2, Stop_30, Stop_3, Stop_35, Stop_22, Stop_29",10,Evening Off-Peak,42,17.51,II,90
+39,Stop_29,Stop_23,"Stop_29, Stop_1, Stop_19, Stop_10, Stop_7, Stop_36, Stop_9, Stop_23",8,Morning Peak,33,17.81,I,60
+39,Stop_29,Stop_23,"Stop_29, Stop_1, Stop_19, Stop_10, Stop_7, Stop_36, Stop_9, Stop_23",8,Morning Peak,35,17.81,II,90
+39,Stop_29,Stop_23,"Stop_29, Stop_1, Stop_19, Stop_10, Stop_7, Stop_36, Stop_9, Stop_23",8,Morning Off-Peak,37,17.81,I,60
+39,Stop_29,Stop_23,"Stop_29, Stop_1, Stop_19, Stop_10, Stop_7, Stop_36, Stop_9, Stop_23",8,Morning Off-Peak,32,17.81,II,90
+39,Stop_29,Stop_23,"Stop_29, Stop_1, Stop_19, Stop_10, Stop_7, Stop_36, Stop_9, Stop_23",8,Evening Peak,34,17.81,I,60
+39,Stop_29,Stop_23,"Stop_29, Stop_1, Stop_19, Stop_10, Stop_7, Stop_36, Stop_9, Stop_23",8,Evening Peak,56,17.81,II,90
+39,Stop_29,Stop_23,"Stop_29, Stop_1, Stop_19, Stop_10, Stop_7, Stop_36, Stop_9, Stop_23",8,Evening Off-Peak,38,17.81,I,60
+39,Stop_29,Stop_23,"Stop_29, Stop_1, Stop_19, Stop_10, Stop_7, Stop_36, Stop_9, Stop_23",8,Evening Off-Peak,54,17.81,II,90
+40,Stop_23,Stop_30,"Stop_23, Stop_34, Stop_11, Stop_5, Stop_23, Stop_33, Stop_39, Stop_32, Stop_3, Stop_30",20,Morning Peak,35,29.62,I,60
+40,Stop_23,Stop_30,"Stop_23, Stop_34, Stop_11, Stop_5, Stop_23, Stop_33, Stop_39, Stop_32, Stop_3, Stop_30",20,Morning Peak,35,29.62,II,90
+40,Stop_23,Stop_30,"Stop_23, Stop_34, Stop_11, Stop_5, Stop_23, Stop_33, Stop_39, Stop_32, Stop_3, Stop_30",20,Morning Off-Peak,32,29.62,I,60
+40,Stop_23,Stop_30,"Stop_23, Stop_34, Stop_11, Stop_5, Stop_23, Stop_33, Stop_39, Stop_32, Stop_3, Stop_30",20,Morning Off-Peak,35,29.62,II,90
+40,Stop_23,Stop_30,"Stop_23, Stop_34, Stop_11, Stop_5, Stop_23, Stop_33, Stop_39, Stop_32, Stop_3, Stop_30",20,Evening Peak,33,29.62,I,60
+40,Stop_23,Stop_30,"Stop_23, Stop_34, Stop_11, Stop_5, Stop_23, Stop_33, Stop_39, Stop_32, Stop_3, Stop_30",20,Evening Peak,46,29.62,II,90
+40,Stop_23,Stop_30,"Stop_23, Stop_34, Stop_11, Stop_5, Stop_23, Stop_33, Stop_39, Stop_32, Stop_3, Stop_30",20,Evening Off-Peak,30,29.62,I,60
+40,Stop_23,Stop_30,"Stop_23, Stop_34, Stop_11, Stop_5, Stop_23, Stop_33, Stop_39, Stop_32, Stop_3, Stop_30",20,Evening Off-Peak,57,29.62,II,90
+41,Stop_30,Stop_15,"Stop_30, Stop_34, Stop_38, Stop_15, Stop_28, Stop_2, Stop_18, Stop_36, Stop_21, Stop_37, Stop_22, Stop_15",15,Morning Peak,32,29.62,I,60
+41,Stop_30,Stop_15,"Stop_30, Stop_34, Stop_38, Stop_15, Stop_28, Stop_2, Stop_18, Stop_36, Stop_21, Stop_37, Stop_22, Stop_15",15,Morning Peak,36,29.62,II,90
+41,Stop_30,Stop_15,"Stop_30, Stop_34, Stop_38, Stop_15, Stop_28, Stop_2, Stop_18, Stop_36, Stop_21, Stop_37, Stop_22, Stop_15",15,Morning Off-Peak,23,29.62,I,60
+41,Stop_30,Stop_15,"Stop_30, Stop_34, Stop_38, Stop_15, Stop_28, Stop_2, Stop_18, Stop_36, Stop_21, Stop_37, Stop_22, Stop_15",15,Morning Off-Peak,52,29.62,II,90
+41,Stop_30,Stop_15,"Stop_30, Stop_34, Stop_38, Stop_15, Stop_28, Stop_2, Stop_18, Stop_36, Stop_21, Stop_37, Stop_22, Stop_15",15,Evening Peak,37,29.62,I,60
+41,Stop_30,Stop_15,"Stop_30, Stop_34, Stop_38, Stop_15, Stop_28, Stop_2, Stop_18, Stop_36, Stop_21, Stop_37, Stop_22, Stop_15",15,Evening Peak,35,29.62,II,90
+41,Stop_30,Stop_15,"Stop_30, Stop_34, Stop_38, Stop_15, Stop_28, Stop_2, Stop_18, Stop_36, Stop_21, Stop_37, Stop_22, Stop_15",15,Evening Off-Peak,24,29.62,I,60
+41,Stop_30,Stop_15,"Stop_30, Stop_34, Stop_38, Stop_15, Stop_28, Stop_2, Stop_18, Stop_36, Stop_21, Stop_37, Stop_22, Stop_15",15,Evening Off-Peak,50,29.62,II,90
+42,Stop_15,Stop_23,"Stop_15, Stop_1, Stop_19, Stop_5, Stop_4, Stop_35, Stop_23",16,Morning Peak,29,28,I,60
+42,Stop_15,Stop_23,"Stop_15, Stop_1, Stop_19, Stop_5, Stop_4, Stop_35, Stop_23",16,Morning Peak,58,28,II,90
+42,Stop_15,Stop_23,"Stop_15, Stop_1, Stop_19, Stop_5, Stop_4, Stop_35, Stop_23",16,Morning Off-Peak,32,28,I,60
+42,Stop_15,Stop_23,"Stop_15, Stop_1, Stop_19, Stop_5, Stop_4, Stop_35, Stop_23",16,Morning Off-Peak,52,28,II,90
+42,Stop_15,Stop_23,"Stop_15, Stop_1, Stop_19, Stop_5, Stop_4, Stop_35, Stop_23",16,Evening Peak,29,28,I,60
+42,Stop_15,Stop_23,"Stop_15, Stop_1, Stop_19, Stop_5, Stop_4, Stop_35, Stop_23",16,Evening Peak,36,28,II,90
+42,Stop_15,Stop_23,"Stop_15, Stop_1, Stop_19, Stop_5, Stop_4, Stop_35, Stop_23",16,Evening Off-Peak,28,28,I,60
+42,Stop_15,Stop_23,"Stop_15, Stop_1, Stop_19, Stop_5, Stop_4, Stop_35, Stop_23",16,Evening Off-Peak,32,28,II,90
+43,Stop_23,Stop_32,"Stop_23, Stop_17, Stop_16, Stop_23, Stop_12, Stop_30, Stop_3, Stop_32",29,Morning Peak,28,23.88,I,60
+43,Stop_23,Stop_32,"Stop_23, Stop_17, Stop_16, Stop_23, Stop_12, Stop_30, Stop_3, Stop_32",29,Morning Peak,52,23.88,II,90
+43,Stop_23,Stop_32,"Stop_23, Stop_17, Stop_16, Stop_23, Stop_12, Stop_30, Stop_3, Stop_32",29,Morning Off-Peak,39,23.88,I,60
+43,Stop_23,Stop_32,"Stop_23, Stop_17, Stop_16, Stop_23, Stop_12, Stop_30, Stop_3, Stop_32",29,Morning Off-Peak,42,23.88,II,90
+43,Stop_23,Stop_32,"Stop_23, Stop_17, Stop_16, Stop_23, Stop_12, Stop_30, Stop_3, Stop_32",29,Evening Peak,21,23.88,I,60
+43,Stop_23,Stop_32,"Stop_23, Stop_17, Stop_16, Stop_23, Stop_12, Stop_30, Stop_3, Stop_32",29,Evening Peak,47,23.88,II,90
+43,Stop_23,Stop_32,"Stop_23, Stop_17, Stop_16, Stop_23, Stop_12, Stop_30, Stop_3, Stop_32",29,Evening Off-Peak,20,23.88,I,60
+43,Stop_23,Stop_32,"Stop_23, Stop_17, Stop_16, Stop_23, Stop_12, Stop_30, Stop_3, Stop_32",29,Evening Off-Peak,60,23.88,II,90
+44,Stop_32,Stop_36,"Stop_32, Stop_34, Stop_19, Stop_14, Stop_24, Stop_15, Stop_28, Stop_11, Stop_8, Stop_36, Stop_39, Stop_9, Stop_36",15,Morning Peak,34,29.85,I,60
+44,Stop_32,Stop_36,"Stop_32, Stop_34, Stop_19, Stop_14, Stop_24, Stop_15, Stop_28, Stop_11, Stop_8, Stop_36, Stop_39, Stop_9, Stop_36",15,Morning Peak,48,29.85,II,90
+44,Stop_32,Stop_36,"Stop_32, Stop_34, Stop_19, Stop_14, Stop_24, Stop_15, Stop_28, Stop_11, Stop_8, Stop_36, Stop_39, Stop_9, Stop_36",15,Morning Off-Peak,34,29.85,I,60
+44,Stop_32,Stop_36,"Stop_32, Stop_34, Stop_19, Stop_14, Stop_24, Stop_15, Stop_28, Stop_11, Stop_8, Stop_36, Stop_39, Stop_9, Stop_36",15,Morning Off-Peak,47,29.85,II,90
+44,Stop_32,Stop_36,"Stop_32, Stop_34, Stop_19, Stop_14, Stop_24, Stop_15, Stop_28, Stop_11, Stop_8, Stop_36, Stop_39, Stop_9, Stop_36",15,Evening Peak,20,29.85,I,60
+44,Stop_32,Stop_36,"Stop_32, Stop_34, Stop_19, Stop_14, Stop_24, Stop_15, Stop_28, Stop_11, Stop_8, Stop_36, Stop_39, Stop_9, Stop_36",15,Evening Peak,44,29.85,II,90
+44,Stop_32,Stop_36,"Stop_32, Stop_34, Stop_19, Stop_14, Stop_24, Stop_15, Stop_28, Stop_11, Stop_8, Stop_36, Stop_39, Stop_9, Stop_36",15,Evening Off-Peak,26,29.85,I,60
+44,Stop_32,Stop_36,"Stop_32, Stop_34, Stop_19, Stop_14, Stop_24, Stop_15, Stop_28, Stop_11, Stop_8, Stop_36, Stop_39, Stop_9, Stop_36",15,Evening Off-Peak,42,29.85,II,90
+45,Stop_36,Stop_13,"Stop_36, Stop_17, Stop_1, Stop_29, Stop_15, Stop_25, Stop_26, Stop_39, Stop_32, Stop_3, Stop_13",20,Morning Peak,28,30,I,60
+45,Stop_36,Stop_13,"Stop_36, Stop_17, Stop_1, Stop_29, Stop_15, Stop_25, Stop_26, Stop_39, Stop_32, Stop_3, Stop_13",20,Morning Peak,51,30,II,90
+45,Stop_36,Stop_13,"Stop_36, Stop_17, Stop_1, Stop_29, Stop_15, Stop_25, Stop_26, Stop_39, Stop_32, Stop_3, Stop_13",20,Morning Off-Peak,38,30,I,60
+45,Stop_36,Stop_13,"Stop_36, Stop_17, Stop_1, Stop_29, Stop_15, Stop_25, Stop_26, Stop_39, Stop_32, Stop_3, Stop_13",20,Morning Off-Peak,43,30,II,90
+45,Stop_36,Stop_13,"Stop_36, Stop_17, Stop_1, Stop_29, Stop_15, Stop_25, Stop_26, Stop_39, Stop_32, Stop_3, Stop_13",20,Evening Peak,21,30,I,60
+45,Stop_36,Stop_13,"Stop_36, Stop_17, Stop_1, Stop_29, Stop_15, Stop_25, Stop_26, Stop_39, Stop_32, Stop_3, Stop_13",20,Evening Peak,32,30,II,90
+45,Stop_36,Stop_13,"Stop_36, Stop_17, Stop_1, Stop_29, Stop_15, Stop_25, Stop_26, Stop_39, Stop_32, Stop_3, Stop_13",20,Evening Off-Peak,27,30,I,60
+45,Stop_36,Stop_13,"Stop_36, Stop_17, Stop_1, Stop_29, Stop_15, Stop_25, Stop_26, Stop_39, Stop_32, Stop_3, Stop_13",20,Evening Off-Peak,45,30,II,90
+46,Stop_13,Stop_32,"Stop_13, Stop_15, Stop_28, Stop_2, Stop_13, Stop_18, Stop_36, Stop_12, Stop_32",24,Morning Peak,29,29.93,I,60
+46,Stop_13,Stop_32,"Stop_13, Stop_15, Stop_28, Stop_2, Stop_13, Stop_18, Stop_36, Stop_12, Stop_32",24,Morning Peak,32,29.93,II,90
+46,Stop_13,Stop_32,"Stop_13, Stop_15, Stop_28, Stop_2, Stop_13, Stop_18, Stop_36, Stop_12, Stop_32",24,Morning Off-Peak,27,29.93,I,60
+46,Stop_13,Stop_32,"Stop_13, Stop_15, Stop_28, Stop_2, Stop_13, Stop_18, Stop_36, Stop_12, Stop_32",24,Morning Off-Peak,33,29.93,II,90
+46,Stop_13,Stop_32,"Stop_13, Stop_15, Stop_28, Stop_2, Stop_13, Stop_18, Stop_36, Stop_12, Stop_32",24,Evening Peak,30,29.93,I,60
+46,Stop_13,Stop_32,"Stop_13, Stop_15, Stop_28, Stop_2, Stop_13, Stop_18, Stop_36, Stop_12, Stop_32",24,Evening Peak,56,29.93,II,90
+46,Stop_13,Stop_32,"Stop_13, Stop_15, Stop_28, Stop_2, Stop_13, Stop_18, Stop_36, Stop_12, Stop_32",24,Evening Off-Peak,36,29.93,I,60
+46,Stop_13,Stop_32,"Stop_13, Stop_15, Stop_28, Stop_2, Stop_13, Stop_18, Stop_36, Stop_12, Stop_32",24,Evening Off-Peak,57,29.93,II,90
+47,Stop_32,Stop_25,"Stop_32, Stop_17, Stop_19, Stop_29, Stop_8, Stop_36, Stop_37, Stop_39, Stop_32, Stop_35, Stop_9, Stop_25",11,Morning Peak,25,23.79,I,60
+47,Stop_32,Stop_25,"Stop_32, Stop_17, Stop_19, Stop_29, Stop_8, Stop_36, Stop_37, Stop_39, Stop_32, Stop_35, Stop_9, Stop_25",11,Morning Peak,45,23.79,II,90
+47,Stop_32,Stop_25,"Stop_32, Stop_17, Stop_19, Stop_29, Stop_8, Stop_36, Stop_37, Stop_39, Stop_32, Stop_35, Stop_9, Stop_25",11,Morning Off-Peak,23,23.79,I,60
+47,Stop_32,Stop_25,"Stop_32, Stop_17, Stop_19, Stop_29, Stop_8, Stop_36, Stop_37, Stop_39, Stop_32, Stop_35, Stop_9, Stop_25",11,Morning Off-Peak,51,23.79,II,90
+47,Stop_32,Stop_25,"Stop_32, Stop_17, Stop_19, Stop_29, Stop_8, Stop_36, Stop_37, Stop_39, Stop_32, Stop_35, Stop_9, Stop_25",11,Evening Peak,29,23.79,I,60
+47,Stop_32,Stop_25,"Stop_32, Stop_17, Stop_19, Stop_29, Stop_8, Stop_36, Stop_37, Stop_39, Stop_32, Stop_35, Stop_9, Stop_25",11,Evening Peak,51,23.79,II,90
+47,Stop_32,Stop_25,"Stop_32, Stop_17, Stop_19, Stop_29, Stop_8, Stop_36, Stop_37, Stop_39, Stop_32, Stop_35, Stop_9, Stop_25",11,Evening Off-Peak,32,23.79,I,60
+47,Stop_32,Stop_25,"Stop_32, Stop_17, Stop_19, Stop_29, Stop_8, Stop_36, Stop_37, Stop_39, Stop_32, Stop_35, Stop_9, Stop_25",11,Evening Off-Peak,59,23.79,II,90
+48,Stop_25,Stop_21,"Stop_25, Stop_12, Stop_26, Stop_2, Stop_21",23,Morning Peak,37,23.4,I,60
+48,Stop_25,Stop_21,"Stop_25, Stop_12, Stop_26, Stop_2, Stop_21",23,Morning Peak,59,23.4,II,90
+48,Stop_25,Stop_21,"Stop_25, Stop_12, Stop_26, Stop_2, Stop_21",23,Morning Off-Peak,22,23.4,I,60
+48,Stop_25,Stop_21,"Stop_25, Stop_12, Stop_26, Stop_2, Stop_21",23,Morning Off-Peak,58,23.4,II,90
+48,Stop_25,Stop_21,"Stop_25, Stop_12, Stop_26, Stop_2, Stop_21",23,Evening Peak,33,23.4,I,60
+48,Stop_25,Stop_21,"Stop_25, Stop_12, Stop_26, Stop_2, Stop_21",23,Evening Peak,36,23.4,II,90
+48,Stop_25,Stop_21,"Stop_25, Stop_12, Stop_26, Stop_2, Stop_21",23,Evening Off-Peak,34,23.4,I,60
+48,Stop_25,Stop_21,"Stop_25, Stop_12, Stop_26, Stop_2, Stop_21",23,Evening Off-Peak,52,23.4,II,90
+49,Stop_21,Stop_30,"Stop_21, Stop_1, Stop_6, Stop_28, Stop_8, Stop_33, Stop_20, Stop_12, Stop_37, Stop_21, Stop_32, Stop_22, Stop_30",7,Morning Peak,33,16.27,I,60
+49,Stop_21,Stop_30,"Stop_21, Stop_1, Stop_6, Stop_28, Stop_8, Stop_33, Stop_20, Stop_12, Stop_37, Stop_21, Stop_32, Stop_22, Stop_30",7,Morning Peak,54,16.27,II,90
+49,Stop_21,Stop_30,"Stop_21, Stop_1, Stop_6, Stop_28, Stop_8, Stop_33, Stop_20, Stop_12, Stop_37, Stop_21, Stop_32, Stop_22, Stop_30",7,Morning Off-Peak,27,16.27,I,60
+49,Stop_21,Stop_30,"Stop_21, Stop_1, Stop_6, Stop_28, Stop_8, Stop_33, Stop_20, Stop_12, Stop_37, Stop_21, Stop_32, Stop_22, Stop_30",7,Morning Off-Peak,37,16.27,II,90
+49,Stop_21,Stop_30,"Stop_21, Stop_1, Stop_6, Stop_28, Stop_8, Stop_33, Stop_20, Stop_12, Stop_37, Stop_21, Stop_32, Stop_22, Stop_30",7,Evening Peak,21,16.27,I,60
+49,Stop_21,Stop_30,"Stop_21, Stop_1, Stop_6, Stop_28, Stop_8, Stop_33, Stop_20, Stop_12, Stop_37, Stop_21, Stop_32, Stop_22, Stop_30",7,Evening Peak,58,16.27,II,90
+49,Stop_21,Stop_30,"Stop_21, Stop_1, Stop_6, Stop_28, Stop_8, Stop_33, Stop_20, Stop_12, Stop_37, Stop_21, Stop_32, Stop_22, Stop_30",7,Evening Off-Peak,39,16.27,I,60
+49,Stop_21,Stop_30,"Stop_21, Stop_1, Stop_6, Stop_28, Stop_8, Stop_33, Stop_20, Stop_12, Stop_37, Stop_21, Stop_32, Stop_22, Stop_30",7,Evening Off-Peak,56,16.27,II,90
+50,Stop_30,Stop_23,"Stop_30, Stop_16, Stop_38, Stop_15, Stop_13, Stop_11, Stop_31, Stop_30, Stop_21, Stop_35, Stop_22, Stop_23",18,Morning Peak,36,23.5,I,60
+50,Stop_30,Stop_23,"Stop_30, Stop_16, Stop_38, Stop_15, Stop_13, Stop_11, Stop_31, Stop_30, Stop_21, Stop_35, Stop_22, Stop_23",18,Morning Peak,44,23.5,II,90
+50,Stop_30,Stop_23,"Stop_30, Stop_16, Stop_38, Stop_15, Stop_13, Stop_11, Stop_31, Stop_30, Stop_21, Stop_35, Stop_22, Stop_23",18,Morning Off-Peak,22,23.5,I,60
+50,Stop_30,Stop_23,"Stop_30, Stop_16, Stop_38, Stop_15, Stop_13, Stop_11, Stop_31, Stop_30, Stop_21, Stop_35, Stop_22, Stop_23",18,Morning Off-Peak,39,23.5,II,90
+50,Stop_30,Stop_23,"Stop_30, Stop_16, Stop_38, Stop_15, Stop_13, Stop_11, Stop_31, Stop_30, Stop_21, Stop_35, Stop_22, Stop_23",18,Evening Peak,38,23.5,I,60
+50,Stop_30,Stop_23,"Stop_30, Stop_16, Stop_38, Stop_15, Stop_13, Stop_11, Stop_31, Stop_30, Stop_21, Stop_35, Stop_22, Stop_23",18,Evening Peak,58,23.5,II,90
+50,Stop_30,Stop_23,"Stop_30, Stop_16, Stop_38, Stop_15, Stop_13, Stop_11, Stop_31, Stop_30, Stop_21, Stop_35, Stop_22, Stop_23",18,Evening Off-Peak,35,23.5,I,60
+50,Stop_30,Stop_23,"Stop_30, Stop_16, Stop_38, Stop_15, Stop_13, Stop_11, Stop_31, Stop_30, Stop_21, Stop_35, Stop_22, Stop_23",18,Evening Off-Peak,60,23.5,II,90
+51,Stop_23,Stop_38,"Stop_23, Stop_38, Stop_5, Stop_25, Stop_20, Stop_12, Stop_21, Stop_4, Stop_38",18,Morning Peak,30,27.96,I,60
+51,Stop_23,Stop_38,"Stop_23, Stop_38, Stop_5, Stop_25, Stop_20, Stop_12, Stop_21, Stop_4, Stop_38",18,Morning Peak,52,27.96,II,90
+51,Stop_23,Stop_38,"Stop_23, Stop_38, Stop_5, Stop_25, Stop_20, Stop_12, Stop_21, Stop_4, Stop_38",18,Morning Off-Peak,30,27.96,I,60
+51,Stop_23,Stop_38,"Stop_23, Stop_38, Stop_5, Stop_25, Stop_20, Stop_12, Stop_21, Stop_4, Stop_38",18,Morning Off-Peak,52,27.96,II,90
+51,Stop_23,Stop_38,"Stop_23, Stop_38, Stop_5, Stop_25, Stop_20, Stop_12, Stop_21, Stop_4, Stop_38",18,Evening Peak,28,27.96,I,60
+51,Stop_23,Stop_38,"Stop_23, Stop_38, Stop_5, Stop_25, Stop_20, Stop_12, Stop_21, Stop_4, Stop_38",18,Evening Peak,48,27.96,II,90
+51,Stop_23,Stop_38,"Stop_23, Stop_38, Stop_5, Stop_25, Stop_20, Stop_12, Stop_21, Stop_4, Stop_38",18,Evening Off-Peak,23,27.96,I,60
+51,Stop_23,Stop_38,"Stop_23, Stop_38, Stop_5, Stop_25, Stop_20, Stop_12, Stop_21, Stop_4, Stop_38",18,Evening Off-Peak,41,27.96,II,90
+52,Stop_38,Stop_25,"Stop_38, Stop_20, Stop_29, Stop_14, Stop_25",22,Morning Peak,30,20.14,I,60
+52,Stop_38,Stop_25,"Stop_38, Stop_20, Stop_29, Stop_14, Stop_25",22,Morning Peak,51,20.14,II,90
+52,Stop_38,Stop_25,"Stop_38, Stop_20, Stop_29, Stop_14, Stop_25",22,Morning Off-Peak,22,20.14,I,60
+52,Stop_38,Stop_25,"Stop_38, Stop_20, Stop_29, Stop_14, Stop_25",22,Morning Off-Peak,59,20.14,II,90
+52,Stop_38,Stop_25,"Stop_38, Stop_20, Stop_29, Stop_14, Stop_25",22,Evening Peak,24,20.14,I,60
+52,Stop_38,Stop_25,"Stop_38, Stop_20, Stop_29, Stop_14, Stop_25",22,Evening Peak,33,20.14,II,90
+52,Stop_38,Stop_25,"Stop_38, Stop_20, Stop_29, Stop_14, Stop_25",22,Evening Off-Peak,27,20.14,I,60
+52,Stop_38,Stop_25,"Stop_38, Stop_20, Stop_29, Stop_14, Stop_25",22,Evening Off-Peak,51,20.14,II,90
+53,Stop_25,Stop_18,"Stop_25, Stop_17, Stop_16, Stop_24, Stop_7, Stop_23, Stop_20, Stop_27, Stop_30, Stop_35, Stop_9, Stop_18",9,Morning Peak,34,21.58,I,60
+53,Stop_25,Stop_18,"Stop_25, Stop_17, Stop_16, Stop_24, Stop_7, Stop_23, Stop_20, Stop_27, Stop_30, Stop_35, Stop_9, Stop_18",9,Morning Peak,37,21.58,II,90
+53,Stop_25,Stop_18,"Stop_25, Stop_17, Stop_16, Stop_24, Stop_7, Stop_23, Stop_20, Stop_27, Stop_30, Stop_35, Stop_9, Stop_18",9,Morning Off-Peak,33,21.58,I,60
+53,Stop_25,Stop_18,"Stop_25, Stop_17, Stop_16, Stop_24, Stop_7, Stop_23, Stop_20, Stop_27, Stop_30, Stop_35, Stop_9, Stop_18",9,Morning Off-Peak,50,21.58,II,90
+53,Stop_25,Stop_18,"Stop_25, Stop_17, Stop_16, Stop_24, Stop_7, Stop_23, Stop_20, Stop_27, Stop_30, Stop_35, Stop_9, Stop_18",9,Evening Peak,36,21.58,I,60
+53,Stop_25,Stop_18,"Stop_25, Stop_17, Stop_16, Stop_24, Stop_7, Stop_23, Stop_20, Stop_27, Stop_30, Stop_35, Stop_9, Stop_18",9,Evening Peak,48,21.58,II,90
+53,Stop_25,Stop_18,"Stop_25, Stop_17, Stop_16, Stop_24, Stop_7, Stop_23, Stop_20, Stop_27, Stop_30, Stop_35, Stop_9, Stop_18",9,Evening Off-Peak,37,21.58,I,60
+53,Stop_25,Stop_18,"Stop_25, Stop_17, Stop_16, Stop_24, Stop_7, Stop_23, Stop_20, Stop_27, Stop_30, Stop_35, Stop_9, Stop_18",9,Evening Off-Peak,31,21.58,II,90
+54,Stop_18,Stop_16,"Stop_18, Stop_15, Stop_10, Stop_8, Stop_11, Stop_23, Stop_20, Stop_37, Stop_32, Stop_3, Stop_16",18,Morning Peak,29,28.35,I,60
+54,Stop_18,Stop_16,"Stop_18, Stop_15, Stop_10, Stop_8, Stop_11, Stop_23, Stop_20, Stop_37, Stop_32, Stop_3, Stop_16",18,Morning Peak,33,28.35,II,90
+54,Stop_18,Stop_16,"Stop_18, Stop_15, Stop_10, Stop_8, Stop_11, Stop_23, Stop_20, Stop_37, Stop_32, Stop_3, Stop_16",18,Morning Off-Peak,23,28.35,I,60
+54,Stop_18,Stop_16,"Stop_18, Stop_15, Stop_10, Stop_8, Stop_11, Stop_23, Stop_20, Stop_37, Stop_32, Stop_3, Stop_16",18,Morning Off-Peak,33,28.35,II,90
+54,Stop_18,Stop_16,"Stop_18, Stop_15, Stop_10, Stop_8, Stop_11, Stop_23, Stop_20, Stop_37, Stop_32, Stop_3, Stop_16",18,Evening Peak,25,28.35,I,60
+54,Stop_18,Stop_16,"Stop_18, Stop_15, Stop_10, Stop_8, Stop_11, Stop_23, Stop_20, Stop_37, Stop_32, Stop_3, Stop_16",18,Evening Peak,53,28.35,II,90
+54,Stop_18,Stop_16,"Stop_18, Stop_15, Stop_10, Stop_8, Stop_11, Stop_23, Stop_20, Stop_37, Stop_32, Stop_3, Stop_16",18,Evening Off-Peak,30,28.35,I,60
+54,Stop_18,Stop_16,"Stop_18, Stop_15, Stop_10, Stop_8, Stop_11, Stop_23, Stop_20, Stop_37, Stop_32, Stop_3, Stop_16",18,Evening Off-Peak,59,28.35,II,90
+55,Stop_16,Stop_20,"Stop_16, Stop_17, Stop_1, Stop_34, Stop_24, Stop_31, Stop_23, Stop_22, Stop_35, Stop_9, Stop_20",17,Morning Peak,37,21.4,I,60
+55,Stop_16,Stop_20,"Stop_16, Stop_17, Stop_1, Stop_34, Stop_24, Stop_31, Stop_23, Stop_22, Stop_35, Stop_9, Stop_20",17,Morning Peak,46,21.4,II,90
+55,Stop_16,Stop_20,"Stop_16, Stop_17, Stop_1, Stop_34, Stop_24, Stop_31, Stop_23, Stop_22, Stop_35, Stop_9, Stop_20",17,Morning Off-Peak,34,21.4,I,60
+55,Stop_16,Stop_20,"Stop_16, Stop_17, Stop_1, Stop_34, Stop_24, Stop_31, Stop_23, Stop_22, Stop_35, Stop_9, Stop_20",17,Morning Off-Peak,42,21.4,II,90
+55,Stop_16,Stop_20,"Stop_16, Stop_17, Stop_1, Stop_34, Stop_24, Stop_31, Stop_23, Stop_22, Stop_35, Stop_9, Stop_20",17,Evening Peak,27,21.4,I,60
+55,Stop_16,Stop_20,"Stop_16, Stop_17, Stop_1, Stop_34, Stop_24, Stop_31, Stop_23, Stop_22, Stop_35, Stop_9, Stop_20",17,Evening Peak,50,21.4,II,90
+55,Stop_16,Stop_20,"Stop_16, Stop_17, Stop_1, Stop_34, Stop_24, Stop_31, Stop_23, Stop_22, Stop_35, Stop_9, Stop_20",17,Evening Off-Peak,28,21.4,I,60
+55,Stop_16,Stop_20,"Stop_16, Stop_17, Stop_1, Stop_34, Stop_24, Stop_31, Stop_23, Stop_22, Stop_35, Stop_9, Stop_20",17,Evening Off-Peak,35,21.4,II,90
+56,Stop_20,Stop_35,"Stop_20, Stop_16, Stop_18, Stop_25, Stop_39, Stop_4, Stop_35",12,Morning Peak,36,20.36,I,60
+56,Stop_20,Stop_35,"Stop_20, Stop_16, Stop_18, Stop_25, Stop_39, Stop_4, Stop_35",12,Morning Peak,48,20.36,II,90
+56,Stop_20,Stop_35,"Stop_20, Stop_16, Stop_18, Stop_25, Stop_39, Stop_4, Stop_35",12,Morning Off-Peak,33,20.36,I,60
+56,Stop_20,Stop_35,"Stop_20, Stop_16, Stop_18, Stop_25, Stop_39, Stop_4, Stop_35",12,Morning Off-Peak,57,20.36,II,90
+56,Stop_20,Stop_35,"Stop_20, Stop_16, Stop_18, Stop_25, Stop_39, Stop_4, Stop_35",12,Evening Peak,32,20.36,I,60
+56,Stop_20,Stop_35,"Stop_20, Stop_16, Stop_18, Stop_25, Stop_39, Stop_4, Stop_35",12,Evening Peak,35,20.36,II,90
+56,Stop_20,Stop_35,"Stop_20, Stop_16, Stop_18, Stop_25, Stop_39, Stop_4, Stop_35",12,Evening Off-Peak,22,20.36,I,60
+56,Stop_20,Stop_35,"Stop_20, Stop_16, Stop_18, Stop_25, Stop_39, Stop_4, Stop_35",12,Evening Off-Peak,51,20.36,II,90
+57,Stop_35,Stop_39,"Stop_35, Stop_14, Stop_10, Stop_8, Stop_32, Stop_3, Stop_35, Stop_6, Stop_39",16,Morning Peak,24,22.91,I,60
+57,Stop_35,Stop_39,"Stop_35, Stop_14, Stop_10, Stop_8, Stop_32, Stop_3, Stop_35, Stop_6, Stop_39",16,Morning Peak,38,22.91,II,90
+57,Stop_35,Stop_39,"Stop_35, Stop_14, Stop_10, Stop_8, Stop_32, Stop_3, Stop_35, Stop_6, Stop_39",16,Morning Off-Peak,39,22.91,I,60
+57,Stop_35,Stop_39,"Stop_35, Stop_14, Stop_10, Stop_8, Stop_32, Stop_3, Stop_35, Stop_6, Stop_39",16,Morning Off-Peak,33,22.91,II,90
+57,Stop_35,Stop_39,"Stop_35, Stop_14, Stop_10, Stop_8, Stop_32, Stop_3, Stop_35, Stop_6, Stop_39",16,Evening Peak,29,22.91,I,60
+57,Stop_35,Stop_39,"Stop_35, Stop_14, Stop_10, Stop_8, Stop_32, Stop_3, Stop_35, Stop_6, Stop_39",16,Evening Peak,49,22.91,II,90
+57,Stop_35,Stop_39,"Stop_35, Stop_14, Stop_10, Stop_8, Stop_32, Stop_3, Stop_35, Stop_6, Stop_39",16,Evening Off-Peak,23,22.91,I,60
+57,Stop_35,Stop_39,"Stop_35, Stop_14, Stop_10, Stop_8, Stop_32, Stop_3, Stop_35, Stop_6, Stop_39",16,Evening Off-Peak,42,22.91,II,90
+58,Stop_39,Stop_18,"Stop_39, Stop_23, Stop_27, Stop_8, Stop_18",19,Morning Peak,26,25.76,I,60
+58,Stop_39,Stop_18,"Stop_39, Stop_23, Stop_27, Stop_8, Stop_18",19,Morning Peak,54,25.76,II,90
+58,Stop_39,Stop_18,"Stop_39, Stop_23, Stop_27, Stop_8, Stop_18",19,Morning Off-Peak,21,25.76,I,60
+58,Stop_39,Stop_18,"Stop_39, Stop_23, Stop_27, Stop_8, Stop_18",19,Morning Off-Peak,46,25.76,II,90
+58,Stop_39,Stop_18,"Stop_39, Stop_23, Stop_27, Stop_8, Stop_18",19,Evening Peak,37,25.76,I,60
+58,Stop_39,Stop_18,"Stop_39, Stop_23, Stop_27, Stop_8, Stop_18",19,Evening Peak,47,25.76,II,90
+58,Stop_39,Stop_18,"Stop_39, Stop_23, Stop_27, Stop_8, Stop_18",19,Evening Off-Peak,35,25.76,I,60
+58,Stop_39,Stop_18,"Stop_39, Stop_23, Stop_27, Stop_8, Stop_18",19,Evening Off-Peak,48,25.76,II,90
+59,Stop_18,Stop_30,"Stop_18, Stop_1, Stop_34, Stop_16, Stop_11, Stop_31, Stop_23, Stop_33, Stop_30, Stop_32, Stop_35, Stop_9, Stop_30",19,Morning Peak,32,27.35,I,60
+59,Stop_18,Stop_30,"Stop_18, Stop_1, Stop_34, Stop_16, Stop_11, Stop_31, Stop_23, Stop_33, Stop_30, Stop_32, Stop_35, Stop_9, Stop_30",19,Morning Peak,37,27.35,II,90
+59,Stop_18,Stop_30,"Stop_18, Stop_1, Stop_34, Stop_16, Stop_11, Stop_31, Stop_23, Stop_33, Stop_30, Stop_32, Stop_35, Stop_9, Stop_30",19,Morning Off-Peak,20,27.35,I,60
+59,Stop_18,Stop_30,"Stop_18, Stop_1, Stop_34, Stop_16, Stop_11, Stop_31, Stop_23, Stop_33, Stop_30, Stop_32, Stop_35, Stop_9, Stop_30",19,Morning Off-Peak,59,27.35,II,90
+59,Stop_18,Stop_30,"Stop_18, Stop_1, Stop_34, Stop_16, Stop_11, Stop_31, Stop_23, Stop_33, Stop_30, Stop_32, Stop_35, Stop_9, Stop_30",19,Evening Peak,30,27.35,I,60
+59,Stop_18,Stop_30,"Stop_18, Stop_1, Stop_34, Stop_16, Stop_11, Stop_31, Stop_23, Stop_33, Stop_30, Stop_32, Stop_35, Stop_9, Stop_30",19,Evening Peak,55,27.35,II,90
+59,Stop_18,Stop_30,"Stop_18, Stop_1, Stop_34, Stop_16, Stop_11, Stop_31, Stop_23, Stop_33, Stop_30, Stop_32, Stop_35, Stop_9, Stop_30",19,Evening Off-Peak,27,27.35,I,60
+59,Stop_18,Stop_30,"Stop_18, Stop_1, Stop_34, Stop_16, Stop_11, Stop_31, Stop_23, Stop_33, Stop_30, Stop_32, Stop_35, Stop_9, Stop_30",19,Evening Off-Peak,51,27.35,II,90
+60,Stop_30,Stop_23,"Stop_30, Stop_24, Stop_11, Stop_8, Stop_21, Stop_35, Stop_23",23,Morning Peak,27,21.26,I,60
+60,Stop_30,Stop_23,"Stop_30, Stop_24, Stop_11, Stop_8, Stop_21, Stop_35, Stop_23",23,Morning Peak,56,21.26,II,90
+60,Stop_30,Stop_23,"Stop_30, Stop_24, Stop_11, Stop_8, Stop_21, Stop_35, Stop_23",23,Morning Off-Peak,25,21.26,I,60
+60,Stop_30,Stop_23,"Stop_30, Stop_24, Stop_11, Stop_8, Stop_21, Stop_35, Stop_23",23,Morning Off-Peak,52,21.26,II,90
+60,Stop_30,Stop_23,"Stop_30, Stop_24, Stop_11, Stop_8, Stop_21, Stop_35, Stop_23",23,Evening Peak,23,21.26,I,60
+60,Stop_30,Stop_23,"Stop_30, Stop_24, Stop_11, Stop_8, Stop_21, Stop_35, Stop_23",23,Evening Peak,60,21.26,II,90
+60,Stop_30,Stop_23,"Stop_30, Stop_24, Stop_11, Stop_8, Stop_21, Stop_35, Stop_23",23,Evening Off-Peak,39,21.26,I,60
+60,Stop_30,Stop_23,"Stop_30, Stop_24, Stop_11, Stop_8, Stop_21, Stop_35, Stop_23",23,Evening Off-Peak,38,21.26,II,90
+61,Stop_23,Stop_24,"Stop_23, Stop_1, Stop_28, Stop_18, Stop_33, Stop_35, Stop_24",16,Morning Peak,35,26.97,I,60
+61,Stop_23,Stop_24,"Stop_23, Stop_1, Stop_28, Stop_18, Stop_33, Stop_35, Stop_24",16,Morning Peak,41,26.97,II,90
+61,Stop_23,Stop_24,"Stop_23, Stop_1, Stop_28, Stop_18, Stop_33, Stop_35, Stop_24",16,Morning Off-Peak,35,26.97,I,60
+61,Stop_23,Stop_24,"Stop_23, Stop_1, Stop_28, Stop_18, Stop_33, Stop_35, Stop_24",16,Morning Off-Peak,52,26.97,II,90
+61,Stop_23,Stop_24,"Stop_23, Stop_1, Stop_28, Stop_18, Stop_33, Stop_35, Stop_24",16,Evening Peak,21,26.97,I,60
+61,Stop_23,Stop_24,"Stop_23, Stop_1, Stop_28, Stop_18, Stop_33, Stop_35, Stop_24",16,Evening Peak,59,26.97,II,90
+61,Stop_23,Stop_24,"Stop_23, Stop_1, Stop_28, Stop_18, Stop_33, Stop_35, Stop_24",16,Evening Off-Peak,39,26.97,I,60
+61,Stop_23,Stop_24,"Stop_23, Stop_1, Stop_28, Stop_18, Stop_33, Stop_35, Stop_24",16,Evening Off-Peak,53,26.97,II,90
+62,Stop_24,Stop_37,"Stop_24, Stop_15, Stop_12, Stop_35, Stop_37",13,Morning Peak,34,28.13,I,60
+62,Stop_24,Stop_37,"Stop_24, Stop_15, Stop_12, Stop_35, Stop_37",13,Morning Peak,47,28.13,II,90
+62,Stop_24,Stop_37,"Stop_24, Stop_15, Stop_12, Stop_35, Stop_37",13,Morning Off-Peak,23,28.13,I,60
+62,Stop_24,Stop_37,"Stop_24, Stop_15, Stop_12, Stop_35, Stop_37",13,Morning Off-Peak,45,28.13,II,90
+62,Stop_24,Stop_37,"Stop_24, Stop_15, Stop_12, Stop_35, Stop_37",13,Evening Peak,21,28.13,I,60
+62,Stop_24,Stop_37,"Stop_24, Stop_15, Stop_12, Stop_35, Stop_37",13,Evening Peak,50,28.13,II,90
+62,Stop_24,Stop_37,"Stop_24, Stop_15, Stop_12, Stop_35, Stop_37",13,Evening Off-Peak,39,28.13,I,60
+62,Stop_24,Stop_37,"Stop_24, Stop_15, Stop_12, Stop_35, Stop_37",13,Evening Off-Peak,58,28.13,II,90
+63,Stop_37,Stop_39,"Stop_37, Stop_24, Stop_15, Stop_28, Stop_5, Stop_18, Stop_23, Stop_25, Stop_27, Stop_21, Stop_4, Stop_6, Stop_39",7,Morning Peak,22,14.47,I,60
+63,Stop_37,Stop_39,"Stop_37, Stop_24, Stop_15, Stop_28, Stop_5, Stop_18, Stop_23, Stop_25, Stop_27, Stop_21, Stop_4, Stop_6, Stop_39",7,Morning Peak,49,14.47,II,90
+63,Stop_37,Stop_39,"Stop_37, Stop_24, Stop_15, Stop_28, Stop_5, Stop_18, Stop_23, Stop_25, Stop_27, Stop_21, Stop_4, Stop_6, Stop_39",7,Morning Off-Peak,30,14.47,I,60
+63,Stop_37,Stop_39,"Stop_37, Stop_24, Stop_15, Stop_28, Stop_5, Stop_18, Stop_23, Stop_25, Stop_27, Stop_21, Stop_4, Stop_6, Stop_39",7,Morning Off-Peak,55,14.47,II,90
+63,Stop_37,Stop_39,"Stop_37, Stop_24, Stop_15, Stop_28, Stop_5, Stop_18, Stop_23, Stop_25, Stop_27, Stop_21, Stop_4, Stop_6, Stop_39",7,Evening Peak,24,14.47,I,60
+63,Stop_37,Stop_39,"Stop_37, Stop_24, Stop_15, Stop_28, Stop_5, Stop_18, Stop_23, Stop_25, Stop_27, Stop_21, Stop_4, Stop_6, Stop_39",7,Evening Peak,58,14.47,II,90
+63,Stop_37,Stop_39,"Stop_37, Stop_24, Stop_15, Stop_28, Stop_5, Stop_18, Stop_23, Stop_25, Stop_27, Stop_21, Stop_4, Stop_6, Stop_39",7,Evening Off-Peak,35,14.47,I,60
+63,Stop_37,Stop_39,"Stop_37, Stop_24, Stop_15, Stop_28, Stop_5, Stop_18, Stop_23, Stop_25, Stop_27, Stop_21, Stop_4, Stop_6, Stop_39",7,Evening Off-Peak,57,14.47,II,90
+64,Stop_39,Stop_38,"Stop_39, Stop_34, Stop_13, Stop_28, Stop_8, Stop_31, Stop_25, Stop_12, Stop_26, Stop_30, Stop_21, Stop_39, Stop_9, Stop_38",16,Morning Peak,27,22.38,I,60
+64,Stop_39,Stop_38,"Stop_39, Stop_34, Stop_13, Stop_28, Stop_8, Stop_31, Stop_25, Stop_12, Stop_26, Stop_30, Stop_21, Stop_39, Stop_9, Stop_38",16,Morning Peak,30,22.38,II,90
+64,Stop_39,Stop_38,"Stop_39, Stop_34, Stop_13, Stop_28, Stop_8, Stop_31, Stop_25, Stop_12, Stop_26, Stop_30, Stop_21, Stop_39, Stop_9, Stop_38",16,Morning Off-Peak,29,22.38,I,60
+64,Stop_39,Stop_38,"Stop_39, Stop_34, Stop_13, Stop_28, Stop_8, Stop_31, Stop_25, Stop_12, Stop_26, Stop_30, Stop_21, Stop_39, Stop_9, Stop_38",16,Morning Off-Peak,51,22.38,II,90
+64,Stop_39,Stop_38,"Stop_39, Stop_34, Stop_13, Stop_28, Stop_8, Stop_31, Stop_25, Stop_12, Stop_26, Stop_30, Stop_21, Stop_39, Stop_9, Stop_38",16,Evening Peak,35,22.38,I,60
+64,Stop_39,Stop_38,"Stop_39, Stop_34, Stop_13, Stop_28, Stop_8, Stop_31, Stop_25, Stop_12, Stop_26, Stop_30, Stop_21, Stop_39, Stop_9, Stop_38",16,Evening Peak,46,22.38,II,90
+64,Stop_39,Stop_38,"Stop_39, Stop_34, Stop_13, Stop_28, Stop_8, Stop_31, Stop_25, Stop_12, Stop_26, Stop_30, Stop_21, Stop_39, Stop_9, Stop_38",16,Evening Off-Peak,36,22.38,I,60
+64,Stop_39,Stop_38,"Stop_39, Stop_34, Stop_13, Stop_28, Stop_8, Stop_31, Stop_25, Stop_12, Stop_26, Stop_30, Stop_21, Stop_39, Stop_9, Stop_38",16,Evening Off-Peak,43,22.38,II,90
+65,Stop_38,Stop_24,"Stop_38, Stop_15, Stop_13, Stop_5, Stop_31, Stop_23, Stop_25, Stop_27, Stop_22, Stop_35, Stop_6, Stop_24",6,Morning Peak,24,19.2,I,60
+65,Stop_38,Stop_24,"Stop_38, Stop_15, Stop_13, Stop_5, Stop_31, Stop_23, Stop_25, Stop_27, Stop_22, Stop_35, Stop_6, Stop_24",6,Morning Peak,35,19.2,II,90
+65,Stop_38,Stop_24,"Stop_38, Stop_15, Stop_13, Stop_5, Stop_31, Stop_23, Stop_25, Stop_27, Stop_22, Stop_35, Stop_6, Stop_24",6,Morning Off-Peak,37,19.2,I,60
+65,Stop_38,Stop_24,"Stop_38, Stop_15, Stop_13, Stop_5, Stop_31, Stop_23, Stop_25, Stop_27, Stop_22, Stop_35, Stop_6, Stop_24",6,Morning Off-Peak,43,19.2,II,90
+65,Stop_38,Stop_24,"Stop_38, Stop_15, Stop_13, Stop_5, Stop_31, Stop_23, Stop_25, Stop_27, Stop_22, Stop_35, Stop_6, Stop_24",6,Evening Peak,31,19.2,I,60
+65,Stop_38,Stop_24,"Stop_38, Stop_15, Stop_13, Stop_5, Stop_31, Stop_23, Stop_25, Stop_27, Stop_22, Stop_35, Stop_6, Stop_24",6,Evening Peak,60,19.2,II,90
+65,Stop_38,Stop_24,"Stop_38, Stop_15, Stop_13, Stop_5, Stop_31, Stop_23, Stop_25, Stop_27, Stop_22, Stop_35, Stop_6, Stop_24",6,Evening Off-Peak,36,19.2,I,60
+65,Stop_38,Stop_24,"Stop_38, Stop_15, Stop_13, Stop_5, Stop_31, Stop_23, Stop_25, Stop_27, Stop_22, Stop_35, Stop_6, Stop_24",6,Evening Off-Peak,33,19.2,II,90
+66,Stop_24,Stop_26,"Stop_24, Stop_17, Stop_1, Stop_14, Stop_16, Stop_24, Stop_13, Stop_15, Stop_7, Stop_36, Stop_37, Stop_4, Stop_32, Stop_35, Stop_6, Stop_26",20,Morning Peak,32,20.84,I,60
+66,Stop_24,Stop_26,"Stop_24, Stop_17, Stop_1, Stop_14, Stop_16, Stop_24, Stop_13, Stop_15, Stop_7, Stop_36, Stop_37, Stop_4, Stop_32, Stop_35, Stop_6, Stop_26",20,Morning Peak,42,20.84,II,90
+66,Stop_24,Stop_26,"Stop_24, Stop_17, Stop_1, Stop_14, Stop_16, Stop_24, Stop_13, Stop_15, Stop_7, Stop_36, Stop_37, Stop_4, Stop_32, Stop_35, Stop_6, Stop_26",20,Morning Off-Peak,27,20.84,I,60
+66,Stop_24,Stop_26,"Stop_24, Stop_17, Stop_1, Stop_14, Stop_16, Stop_24, Stop_13, Stop_15, Stop_7, Stop_36, Stop_37, Stop_4, Stop_32, Stop_35, Stop_6, Stop_26",20,Morning Off-Peak,38,20.84,II,90
+66,Stop_24,Stop_26,"Stop_24, Stop_17, Stop_1, Stop_14, Stop_16, Stop_24, Stop_13, Stop_15, Stop_7, Stop_36, Stop_37, Stop_4, Stop_32, Stop_35, Stop_6, Stop_26",20,Evening Peak,27,20.84,I,60
+66,Stop_24,Stop_26,"Stop_24, Stop_17, Stop_1, Stop_14, Stop_16, Stop_24, Stop_13, Stop_15, Stop_7, Stop_36, Stop_37, Stop_4, Stop_32, Stop_35, Stop_6, Stop_26",20,Evening Peak,48,20.84,II,90
+66,Stop_24,Stop_26,"Stop_24, Stop_17, Stop_1, Stop_14, Stop_16, Stop_24, Stop_13, Stop_15, Stop_7, Stop_36, Stop_37, Stop_4, Stop_32, Stop_35, Stop_6, Stop_26",20,Evening Off-Peak,35,20.84,I,60
+66,Stop_24,Stop_26,"Stop_24, Stop_17, Stop_1, Stop_14, Stop_16, Stop_24, Stop_13, Stop_15, Stop_7, Stop_36, Stop_37, Stop_4, Stop_32, Stop_35, Stop_6, Stop_26",20,Evening Off-Peak,35,20.84,II,90
+67,Stop_26,Stop_31,"Stop_26, Stop_34, Stop_29, Stop_5, Stop_23, Stop_30, Stop_4, Stop_6, Stop_31",14,Morning Peak,27,22.82,I,60
+67,Stop_26,Stop_31,"Stop_26, Stop_34, Stop_29, Stop_5, Stop_23, Stop_30, Stop_4, Stop_6, Stop_31",14,Morning Peak,34,22.82,II,90
+67,Stop_26,Stop_31,"Stop_26, Stop_34, Stop_29, Stop_5, Stop_23, Stop_30, Stop_4, Stop_6, Stop_31",14,Morning Off-Peak,35,22.82,I,60
+67,Stop_26,Stop_31,"Stop_26, Stop_34, Stop_29, Stop_5, Stop_23, Stop_30, Stop_4, Stop_6, Stop_31",14,Morning Off-Peak,39,22.82,II,90
+67,Stop_26,Stop_31,"Stop_26, Stop_34, Stop_29, Stop_5, Stop_23, Stop_30, Stop_4, Stop_6, Stop_31",14,Evening Peak,23,22.82,I,60
+67,Stop_26,Stop_31,"Stop_26, Stop_34, Stop_29, Stop_5, Stop_23, Stop_30, Stop_4, Stop_6, Stop_31",14,Evening Peak,38,22.82,II,90
+67,Stop_26,Stop_31,"Stop_26, Stop_34, Stop_29, Stop_5, Stop_23, Stop_30, Stop_4, Stop_6, Stop_31",14,Evening Off-Peak,25,22.82,I,60
+67,Stop_26,Stop_31,"Stop_26, Stop_34, Stop_29, Stop_5, Stop_23, Stop_30, Stop_4, Stop_6, Stop_31",14,Evening Off-Peak,49,22.82,II,90
+68,Stop_31,Stop_21,"Stop_31, Stop_19, Stop_14, Stop_10, Stop_5, Stop_18, Stop_23, Stop_33, Stop_12, Stop_3, Stop_9, Stop_21",29,Morning Peak,32,28.15,I,60
+68,Stop_31,Stop_21,"Stop_31, Stop_19, Stop_14, Stop_10, Stop_5, Stop_18, Stop_23, Stop_33, Stop_12, Stop_3, Stop_9, Stop_21",29,Morning Peak,43,28.15,II,90
+68,Stop_31,Stop_21,"Stop_31, Stop_19, Stop_14, Stop_10, Stop_5, Stop_18, Stop_23, Stop_33, Stop_12, Stop_3, Stop_9, Stop_21",29,Morning Off-Peak,28,28.15,I,60
+68,Stop_31,Stop_21,"Stop_31, Stop_19, Stop_14, Stop_10, Stop_5, Stop_18, Stop_23, Stop_33, Stop_12, Stop_3, Stop_9, Stop_21",29,Morning Off-Peak,49,28.15,II,90
+68,Stop_31,Stop_21,"Stop_31, Stop_19, Stop_14, Stop_10, Stop_5, Stop_18, Stop_23, Stop_33, Stop_12, Stop_3, Stop_9, Stop_21",29,Evening Peak,30,28.15,I,60
+68,Stop_31,Stop_21,"Stop_31, Stop_19, Stop_14, Stop_10, Stop_5, Stop_18, Stop_23, Stop_33, Stop_12, Stop_3, Stop_9, Stop_21",29,Evening Peak,51,28.15,II,90
+68,Stop_31,Stop_21,"Stop_31, Stop_19, Stop_14, Stop_10, Stop_5, Stop_18, Stop_23, Stop_33, Stop_12, Stop_3, Stop_9, Stop_21",29,Evening Off-Peak,36,28.15,I,60
+68,Stop_31,Stop_21,"Stop_31, Stop_19, Stop_14, Stop_10, Stop_5, Stop_18, Stop_23, Stop_33, Stop_12, Stop_3, Stop_9, Stop_21",29,Evening Off-Peak,41,28.15,II,90
+69,Stop_21,Stop_32,"Stop_21, Stop_16, Stop_13, Stop_11, Stop_2, Stop_18, Stop_12, Stop_26, Stop_39, Stop_4, Stop_35, Stop_6, Stop_32",19,Morning Peak,26,23.66,I,60
+69,Stop_21,Stop_32,"Stop_21, Stop_16, Stop_13, Stop_11, Stop_2, Stop_18, Stop_12, Stop_26, Stop_39, Stop_4, Stop_35, Stop_6, Stop_32",19,Morning Peak,43,23.66,II,90
+69,Stop_21,Stop_32,"Stop_21, Stop_16, Stop_13, Stop_11, Stop_2, Stop_18, Stop_12, Stop_26, Stop_39, Stop_4, Stop_35, Stop_6, Stop_32",19,Morning Off-Peak,31,23.66,I,60
+69,Stop_21,Stop_32,"Stop_21, Stop_16, Stop_13, Stop_11, Stop_2, Stop_18, Stop_12, Stop_26, Stop_39, Stop_4, Stop_35, Stop_6, Stop_32",19,Morning Off-Peak,46,23.66,II,90
+69,Stop_21,Stop_32,"Stop_21, Stop_16, Stop_13, Stop_11, Stop_2, Stop_18, Stop_12, Stop_26, Stop_39, Stop_4, Stop_35, Stop_6, Stop_32",19,Evening Peak,23,23.66,I,60
+69,Stop_21,Stop_32,"Stop_21, Stop_16, Stop_13, Stop_11, Stop_2, Stop_18, Stop_12, Stop_26, Stop_39, Stop_4, Stop_35, Stop_6, Stop_32",19,Evening Peak,55,23.66,II,90
+69,Stop_21,Stop_32,"Stop_21, Stop_16, Stop_13, Stop_11, Stop_2, Stop_18, Stop_12, Stop_26, Stop_39, Stop_4, Stop_35, Stop_6, Stop_32",19,Evening Off-Peak,34,23.66,I,60
+69,Stop_21,Stop_32,"Stop_21, Stop_16, Stop_13, Stop_11, Stop_2, Stop_18, Stop_12, Stop_26, Stop_39, Stop_4, Stop_35, Stop_6, Stop_32",19,Evening Off-Peak,52,23.66,II,90
+70,Stop_32,Stop_23,"Stop_32, Stop_29, Stop_19, Stop_15, Stop_36, Stop_37, Stop_3, Stop_23",17,Morning Peak,24,25.22,I,60
+70,Stop_32,Stop_23,"Stop_32, Stop_29, Stop_19, Stop_15, Stop_36, Stop_37, Stop_3, Stop_23",17,Morning Peak,58,25.22,II,90
+70,Stop_32,Stop_23,"Stop_32, Stop_29, Stop_19, Stop_15, Stop_36, Stop_37, Stop_3, Stop_23",17,Morning Off-Peak,23,25.22,I,60
+70,Stop_32,Stop_23,"Stop_32, Stop_29, Stop_19, Stop_15, Stop_36, Stop_37, Stop_3, Stop_23",17,Morning Off-Peak,45,25.22,II,90
+70,Stop_32,Stop_23,"Stop_32, Stop_29, Stop_19, Stop_15, Stop_36, Stop_37, Stop_3, Stop_23",17,Evening Peak,23,25.22,I,60
+70,Stop_32,Stop_23,"Stop_32, Stop_29, Stop_19, Stop_15, Stop_36, Stop_37, Stop_3, Stop_23",17,Evening Peak,52,25.22,II,90
+70,Stop_32,Stop_23,"Stop_32, Stop_29, Stop_19, Stop_15, Stop_36, Stop_37, Stop_3, Stop_23",17,Evening Off-Peak,23,25.22,I,60
+70,Stop_32,Stop_23,"Stop_32, Stop_29, Stop_19, Stop_15, Stop_36, Stop_37, Stop_3, Stop_23",17,Evening Off-Peak,44,25.22,II,90
+71,Stop_23,Stop_29,"Stop_23, Stop_38, Stop_6, Stop_15, Stop_20, Stop_9, Stop_29",8,Morning Peak,24,12.84,I,60
+71,Stop_23,Stop_29,"Stop_23, Stop_38, Stop_6, Stop_15, Stop_20, Stop_9, Stop_29",8,Morning Peak,60,12.84,II,90
+71,Stop_23,Stop_29,"Stop_23, Stop_38, Stop_6, Stop_15, Stop_20, Stop_9, Stop_29",8,Morning Off-Peak,23,12.84,I,60
+71,Stop_23,Stop_29,"Stop_23, Stop_38, Stop_6, Stop_15, Stop_20, Stop_9, Stop_29",8,Morning Off-Peak,42,12.84,II,90
+71,Stop_23,Stop_29,"Stop_23, Stop_38, Stop_6, Stop_15, Stop_20, Stop_9, Stop_29",8,Evening Peak,26,12.84,I,60
+71,Stop_23,Stop_29,"Stop_23, Stop_38, Stop_6, Stop_15, Stop_20, Stop_9, Stop_29",8,Evening Peak,59,12.84,II,90
+71,Stop_23,Stop_29,"Stop_23, Stop_38, Stop_6, Stop_15, Stop_20, Stop_9, Stop_29",8,Evening Off-Peak,38,12.84,I,60
+71,Stop_23,Stop_29,"Stop_23, Stop_38, Stop_6, Stop_15, Stop_20, Stop_9, Stop_29",8,Evening Off-Peak,31,12.84,II,90
+72,Stop_29,Stop_12,"Stop_29, Stop_17, Stop_24, Stop_32, Stop_16, Stop_12",20,Morning Peak,30,24.03,I,60
+72,Stop_29,Stop_12,"Stop_29, Stop_17, Stop_24, Stop_32, Stop_16, Stop_12",20,Morning Peak,50,24.03,II,90
+72,Stop_29,Stop_12,"Stop_29, Stop_17, Stop_24, Stop_32, Stop_16, Stop_12",20,Morning Off-Peak,34,24.03,I,60
+72,Stop_29,Stop_12,"Stop_29, Stop_17, Stop_24, Stop_32, Stop_16, Stop_12",20,Morning Off-Peak,46,24.03,II,90
+72,Stop_29,Stop_12,"Stop_29, Stop_17, Stop_24, Stop_32, Stop_16, Stop_12",20,Evening Peak,20,24.03,I,60
+72,Stop_29,Stop_12,"Stop_29, Stop_17, Stop_24, Stop_32, Stop_16, Stop_12",20,Evening Peak,39,24.03,II,90
+72,Stop_29,Stop_12,"Stop_29, Stop_17, Stop_24, Stop_32, Stop_16, Stop_12",20,Evening Off-Peak,23,24.03,I,60
+72,Stop_29,Stop_12,"Stop_29, Stop_17, Stop_24, Stop_32, Stop_16, Stop_12",20,Evening Off-Peak,60,24.03,II,90
+73,Stop_12,Stop_23,"Stop_12, Stop_16, Stop_2, Stop_12, Stop_27, Stop_3, Stop_23",6,Morning Peak,39,12.45,I,60
+73,Stop_12,Stop_23,"Stop_12, Stop_16, Stop_2, Stop_12, Stop_27, Stop_3, Stop_23",6,Morning Peak,58,12.45,II,90
+73,Stop_12,Stop_23,"Stop_12, Stop_16, Stop_2, Stop_12, Stop_27, Stop_3, Stop_23",6,Morning Off-Peak,27,12.45,I,60
+73,Stop_12,Stop_23,"Stop_12, Stop_16, Stop_2, Stop_12, Stop_27, Stop_3, Stop_23",6,Morning Off-Peak,38,12.45,II,90
+73,Stop_12,Stop_23,"Stop_12, Stop_16, Stop_2, Stop_12, Stop_27, Stop_3, Stop_23",6,Evening Peak,24,12.45,I,60
+73,Stop_12,Stop_23,"Stop_12, Stop_16, Stop_2, Stop_12, Stop_27, Stop_3, Stop_23",6,Evening Peak,51,12.45,II,90
+73,Stop_12,Stop_23,"Stop_12, Stop_16, Stop_2, Stop_12, Stop_27, Stop_3, Stop_23",6,Evening Off-Peak,30,12.45,I,60
+73,Stop_12,Stop_23,"Stop_12, Stop_16, Stop_2, Stop_12, Stop_27, Stop_3, Stop_23",6,Evening Off-Peak,31,12.45,II,90
+74,Stop_23,Stop_22,"Stop_23, Stop_34, Stop_10, Stop_2, Stop_20, Stop_12, Stop_26, Stop_39, Stop_32, Stop_9, Stop_22",5,Morning Peak,23,10.86,I,60
+74,Stop_23,Stop_22,"Stop_23, Stop_34, Stop_10, Stop_2, Stop_20, Stop_12, Stop_26, Stop_39, Stop_32, Stop_9, Stop_22",5,Morning Peak,54,10.86,II,90
+74,Stop_23,Stop_22,"Stop_23, Stop_34, Stop_10, Stop_2, Stop_20, Stop_12, Stop_26, Stop_39, Stop_32, Stop_9, Stop_22",5,Morning Off-Peak,34,10.86,I,60
+74,Stop_23,Stop_22,"Stop_23, Stop_34, Stop_10, Stop_2, Stop_20, Stop_12, Stop_26, Stop_39, Stop_32, Stop_9, Stop_22",5,Morning Off-Peak,49,10.86,II,90
+74,Stop_23,Stop_22,"Stop_23, Stop_34, Stop_10, Stop_2, Stop_20, Stop_12, Stop_26, Stop_39, Stop_32, Stop_9, Stop_22",5,Evening Peak,29,10.86,I,60
+74,Stop_23,Stop_22,"Stop_23, Stop_34, Stop_10, Stop_2, Stop_20, Stop_12, Stop_26, Stop_39, Stop_32, Stop_9, Stop_22",5,Evening Peak,47,10.86,II,90
+74,Stop_23,Stop_22,"Stop_23, Stop_34, Stop_10, Stop_2, Stop_20, Stop_12, Stop_26, Stop_39, Stop_32, Stop_9, Stop_22",5,Evening Off-Peak,31,10.86,I,60
+74,Stop_23,Stop_22,"Stop_23, Stop_34, Stop_10, Stop_2, Stop_20, Stop_12, Stop_26, Stop_39, Stop_32, Stop_9, Stop_22",5,Evening Off-Peak,33,10.86,II,90
+75,Stop_22,Stop_24,"Stop_22, Stop_18, Stop_25, Stop_20, Stop_36, Stop_33, Stop_32, Stop_24",10,Morning Peak,32,17.96,I,60
+75,Stop_22,Stop_24,"Stop_22, Stop_18, Stop_25, Stop_20, Stop_36, Stop_33, Stop_32, Stop_24",10,Morning Peak,34,17.96,II,90
+75,Stop_22,Stop_24,"Stop_22, Stop_18, Stop_25, Stop_20, Stop_36, Stop_33, Stop_32, Stop_24",10,Morning Off-Peak,38,17.96,I,60
+75,Stop_22,Stop_24,"Stop_22, Stop_18, Stop_25, Stop_20, Stop_36, Stop_33, Stop_32, Stop_24",10,Morning Off-Peak,43,17.96,II,90
+75,Stop_22,Stop_24,"Stop_22, Stop_18, Stop_25, Stop_20, Stop_36, Stop_33, Stop_32, Stop_24",10,Evening Peak,36,17.96,I,60
+75,Stop_22,Stop_24,"Stop_22, Stop_18, Stop_25, Stop_20, Stop_36, Stop_33, Stop_32, Stop_24",10,Evening Peak,58,17.96,II,90
+75,Stop_22,Stop_24,"Stop_22, Stop_18, Stop_25, Stop_20, Stop_36, Stop_33, Stop_32, Stop_24",10,Evening Off-Peak,34,17.96,I,60
+75,Stop_22,Stop_24,"Stop_22, Stop_18, Stop_25, Stop_20, Stop_36, Stop_33, Stop_32, Stop_24",10,Evening Off-Peak,51,17.96,II,90
+76,Stop_24,Stop_15,"Stop_24, Stop_17, Stop_19, Stop_14, Stop_15, Stop_28, Stop_13, Stop_31, Stop_23, Stop_33, Stop_20, Stop_32, Stop_35, Stop_15",7,Morning Peak,25,16.79,I,60
+76,Stop_24,Stop_15,"Stop_24, Stop_17, Stop_19, Stop_14, Stop_15, Stop_28, Stop_13, Stop_31, Stop_23, Stop_33, Stop_20, Stop_32, Stop_35, Stop_15",7,Morning Peak,51,16.79,II,90
+76,Stop_24,Stop_15,"Stop_24, Stop_17, Stop_19, Stop_14, Stop_15, Stop_28, Stop_13, Stop_31, Stop_23, Stop_33, Stop_20, Stop_32, Stop_35, Stop_15",7,Morning Off-Peak,27,16.79,I,60
+76,Stop_24,Stop_15,"Stop_24, Stop_17, Stop_19, Stop_14, Stop_15, Stop_28, Stop_13, Stop_31, Stop_23, Stop_33, Stop_20, Stop_32, Stop_35, Stop_15",7,Morning Off-Peak,41,16.79,II,90
+76,Stop_24,Stop_15,"Stop_24, Stop_17, Stop_19, Stop_14, Stop_15, Stop_28, Stop_13, Stop_31, Stop_23, Stop_33, Stop_20, Stop_32, Stop_35, Stop_15",7,Evening Peak,26,16.79,I,60
+76,Stop_24,Stop_15,"Stop_24, Stop_17, Stop_19, Stop_14, Stop_15, Stop_28, Stop_13, Stop_31, Stop_23, Stop_33, Stop_20, Stop_32, Stop_35, Stop_15",7,Evening Peak,60,16.79,II,90
+76,Stop_24,Stop_15,"Stop_24, Stop_17, Stop_19, Stop_14, Stop_15, Stop_28, Stop_13, Stop_31, Stop_23, Stop_33, Stop_20, Stop_32, Stop_35, Stop_15",7,Evening Off-Peak,35,16.79,I,60
+76,Stop_24,Stop_15,"Stop_24, Stop_17, Stop_19, Stop_14, Stop_15, Stop_28, Stop_13, Stop_31, Stop_23, Stop_33, Stop_20, Stop_32, Stop_35, Stop_15",7,Evening Off-Peak,32,16.79,II,90
+77,Stop_15,Stop_31,"Stop_15, Stop_17, Stop_29, Stop_2, Stop_31",24,Morning Peak,35,22.37,I,60
+77,Stop_15,Stop_31,"Stop_15, Stop_17, Stop_29, Stop_2, Stop_31",24,Morning Peak,57,22.37,II,90
+77,Stop_15,Stop_31,"Stop_15, Stop_17, Stop_29, Stop_2, Stop_31",24,Morning Off-Peak,31,22.37,I,60
+77,Stop_15,Stop_31,"Stop_15, Stop_17, Stop_29, Stop_2, Stop_31",24,Morning Off-Peak,49,22.37,II,90
+77,Stop_15,Stop_31,"Stop_15, Stop_17, Stop_29, Stop_2, Stop_31",24,Evening Peak,38,22.37,I,60
+77,Stop_15,Stop_31,"Stop_15, Stop_17, Stop_29, Stop_2, Stop_31",24,Evening Peak,56,22.37,II,90
+77,Stop_15,Stop_31,"Stop_15, Stop_17, Stop_29, Stop_2, Stop_31",24,Evening Off-Peak,32,22.37,I,60
+77,Stop_15,Stop_31,"Stop_15, Stop_17, Stop_29, Stop_2, Stop_31",24,Evening Off-Peak,57,22.37,II,90
+78,Stop_31,Stop_23,"Stop_31, Stop_19, Stop_13, Stop_28, Stop_8, Stop_23, Stop_26, Stop_23",13,Morning Peak,38,20.62,I,60
+78,Stop_31,Stop_23,"Stop_31, Stop_19, Stop_13, Stop_28, Stop_8, Stop_23, Stop_26, Stop_23",13,Morning Peak,44,20.62,II,90
+78,Stop_31,Stop_23,"Stop_31, Stop_19, Stop_13, Stop_28, Stop_8, Stop_23, Stop_26, Stop_23",13,Morning Off-Peak,30,20.62,I,60
+78,Stop_31,Stop_23,"Stop_31, Stop_19, Stop_13, Stop_28, Stop_8, Stop_23, Stop_26, Stop_23",13,Morning Off-Peak,60,20.62,II,90
+78,Stop_31,Stop_23,"Stop_31, Stop_19, Stop_13, Stop_28, Stop_8, Stop_23, Stop_26, Stop_23",13,Evening Peak,38,20.62,I,60
+78,Stop_31,Stop_23,"Stop_31, Stop_19, Stop_13, Stop_28, Stop_8, Stop_23, Stop_26, Stop_23",13,Evening Peak,35,20.62,II,90
+78,Stop_31,Stop_23,"Stop_31, Stop_19, Stop_13, Stop_28, Stop_8, Stop_23, Stop_26, Stop_23",13,Evening Off-Peak,20,20.62,I,60
+78,Stop_31,Stop_23,"Stop_31, Stop_19, Stop_13, Stop_28, Stop_8, Stop_23, Stop_26, Stop_23",13,Evening Off-Peak,56,20.62,II,90
+79,Stop_23,Stop_34,"Stop_23, Stop_38, Stop_11, Stop_25, Stop_12, Stop_26, Stop_37, Stop_39, Stop_4, Stop_34",18,Morning Peak,35,20.18,I,60
+79,Stop_23,Stop_34,"Stop_23, Stop_38, Stop_11, Stop_25, Stop_12, Stop_26, Stop_37, Stop_39, Stop_4, Stop_34",18,Morning Peak,58,20.18,II,90
+79,Stop_23,Stop_34,"Stop_23, Stop_38, Stop_11, Stop_25, Stop_12, Stop_26, Stop_37, Stop_39, Stop_4, Stop_34",18,Morning Off-Peak,39,20.18,I,60
+79,Stop_23,Stop_34,"Stop_23, Stop_38, Stop_11, Stop_25, Stop_12, Stop_26, Stop_37, Stop_39, Stop_4, Stop_34",18,Morning Off-Peak,46,20.18,II,90
+79,Stop_23,Stop_34,"Stop_23, Stop_38, Stop_11, Stop_25, Stop_12, Stop_26, Stop_37, Stop_39, Stop_4, Stop_34",18,Evening Peak,30,20.18,I,60
+79,Stop_23,Stop_34,"Stop_23, Stop_38, Stop_11, Stop_25, Stop_12, Stop_26, Stop_37, Stop_39, Stop_4, Stop_34",18,Evening Peak,52,20.18,II,90
+79,Stop_23,Stop_34,"Stop_23, Stop_38, Stop_11, Stop_25, Stop_12, Stop_26, Stop_37, Stop_39, Stop_4, Stop_34",18,Evening Off-Peak,30,20.18,I,60
+79,Stop_23,Stop_34,"Stop_23, Stop_38, Stop_11, Stop_25, Stop_12, Stop_26, Stop_37, Stop_39, Stop_4, Stop_34",18,Evening Off-Peak,54,20.18,II,90
+80,Stop_34,Stop_11,"Stop_34, Stop_17, Stop_14, Stop_28, Stop_30, Stop_35, Stop_11",7,Morning Peak,39,13.66,I,60
+80,Stop_34,Stop_11,"Stop_34, Stop_17, Stop_14, Stop_28, Stop_30, Stop_35, Stop_11",7,Morning Peak,43,13.66,II,90
+80,Stop_34,Stop_11,"Stop_34, Stop_17, Stop_14, Stop_28, Stop_30, Stop_35, Stop_11",7,Morning Off-Peak,29,13.66,I,60
+80,Stop_34,Stop_11,"Stop_34, Stop_17, Stop_14, Stop_28, Stop_30, Stop_35, Stop_11",7,Morning Off-Peak,51,13.66,II,90
+80,Stop_34,Stop_11,"Stop_34, Stop_17, Stop_14, Stop_28, Stop_30, Stop_35, Stop_11",7,Evening Peak,29,13.66,I,60
+80,Stop_34,Stop_11,"Stop_34, Stop_17, Stop_14, Stop_28, Stop_30, Stop_35, Stop_11",7,Evening Peak,47,13.66,II,90
+80,Stop_34,Stop_11,"Stop_34, Stop_17, Stop_14, Stop_28, Stop_30, Stop_35, Stop_11",7,Evening Off-Peak,29,13.66,I,60
+80,Stop_34,Stop_11,"Stop_34, Stop_17, Stop_14, Stop_28, Stop_30, Stop_35, Stop_11",7,Evening Off-Peak,58,13.66,II,90
+81,Stop_11,Stop_30,"Stop_11, Stop_34, Stop_1, Stop_4, Stop_30",21,Morning Peak,23,24.52,I,60
+81,Stop_11,Stop_30,"Stop_11, Stop_34, Stop_1, Stop_4, Stop_30",21,Morning Peak,47,24.52,II,90
+81,Stop_11,Stop_30,"Stop_11, Stop_34, Stop_1, Stop_4, Stop_30",21,Morning Off-Peak,27,24.52,I,60
+81,Stop_11,Stop_30,"Stop_11, Stop_34, Stop_1, Stop_4, Stop_30",21,Morning Off-Peak,33,24.52,II,90
+81,Stop_11,Stop_30,"Stop_11, Stop_34, Stop_1, Stop_4, Stop_30",21,Evening Peak,30,24.52,I,60
+81,Stop_11,Stop_30,"Stop_11, Stop_34, Stop_1, Stop_4, Stop_30",21,Evening Peak,54,24.52,II,90
+81,Stop_11,Stop_30,"Stop_11, Stop_34, Stop_1, Stop_4, Stop_30",21,Evening Off-Peak,35,24.52,I,60
+81,Stop_11,Stop_30,"Stop_11, Stop_34, Stop_1, Stop_4, Stop_30",21,Evening Off-Peak,56,24.52,II,90
+82,Stop_30,Stop_27,"Stop_30, Stop_11, Stop_2, Stop_12, Stop_30, Stop_26, Stop_39, Stop_4, Stop_22, Stop_27",8,Morning Peak,26,18.27,I,60
+82,Stop_30,Stop_27,"Stop_30, Stop_11, Stop_2, Stop_12, Stop_30, Stop_26, Stop_39, Stop_4, Stop_22, Stop_27",8,Morning Peak,55,18.27,II,90
+82,Stop_30,Stop_27,"Stop_30, Stop_11, Stop_2, Stop_12, Stop_30, Stop_26, Stop_39, Stop_4, Stop_22, Stop_27",8,Morning Off-Peak,32,18.27,I,60
+82,Stop_30,Stop_27,"Stop_30, Stop_11, Stop_2, Stop_12, Stop_30, Stop_26, Stop_39, Stop_4, Stop_22, Stop_27",8,Morning Off-Peak,37,18.27,II,90
+82,Stop_30,Stop_27,"Stop_30, Stop_11, Stop_2, Stop_12, Stop_30, Stop_26, Stop_39, Stop_4, Stop_22, Stop_27",8,Evening Peak,37,18.27,I,60
+82,Stop_30,Stop_27,"Stop_30, Stop_11, Stop_2, Stop_12, Stop_30, Stop_26, Stop_39, Stop_4, Stop_22, Stop_27",8,Evening Peak,59,18.27,II,90
+82,Stop_30,Stop_27,"Stop_30, Stop_11, Stop_2, Stop_12, Stop_30, Stop_26, Stop_39, Stop_4, Stop_22, Stop_27",8,Evening Off-Peak,29,18.27,I,60
+82,Stop_30,Stop_27,"Stop_30, Stop_11, Stop_2, Stop_12, Stop_30, Stop_26, Stop_39, Stop_4, Stop_22, Stop_27",8,Evening Off-Peak,59,18.27,II,90
+83,Stop_27,Stop_32,"Stop_27, Stop_29, Stop_15, Stop_2, Stop_18, Stop_33, Stop_12, Stop_39, Stop_32",7,Morning Peak,37,11.82,I,60
+83,Stop_27,Stop_32,"Stop_27, Stop_29, Stop_15, Stop_2, Stop_18, Stop_33, Stop_12, Stop_39, Stop_32",7,Morning Peak,55,11.82,II,90
+83,Stop_27,Stop_32,"Stop_27, Stop_29, Stop_15, Stop_2, Stop_18, Stop_33, Stop_12, Stop_39, Stop_32",7,Morning Off-Peak,30,11.82,I,60
+83,Stop_27,Stop_32,"Stop_27, Stop_29, Stop_15, Stop_2, Stop_18, Stop_33, Stop_12, Stop_39, Stop_32",7,Morning Off-Peak,33,11.82,II,90
+83,Stop_27,Stop_32,"Stop_27, Stop_29, Stop_15, Stop_2, Stop_18, Stop_33, Stop_12, Stop_39, Stop_32",7,Evening Peak,21,11.82,I,60
+83,Stop_27,Stop_32,"Stop_27, Stop_29, Stop_15, Stop_2, Stop_18, Stop_33, Stop_12, Stop_39, Stop_32",7,Evening Peak,39,11.82,II,90
+83,Stop_27,Stop_32,"Stop_27, Stop_29, Stop_15, Stop_2, Stop_18, Stop_33, Stop_12, Stop_39, Stop_32",7,Evening Off-Peak,35,11.82,I,60
+83,Stop_27,Stop_32,"Stop_27, Stop_29, Stop_15, Stop_2, Stop_18, Stop_33, Stop_12, Stop_39, Stop_32",7,Evening Off-Peak,57,11.82,II,90
+84,Stop_32,Stop_27,"Stop_32, Stop_29, Stop_15, Stop_10, Stop_5, Stop_23, Stop_7, Stop_39, Stop_32, Stop_22, Stop_27",19,Morning Peak,29,21.22,I,60
+84,Stop_32,Stop_27,"Stop_32, Stop_29, Stop_15, Stop_10, Stop_5, Stop_23, Stop_7, Stop_39, Stop_32, Stop_22, Stop_27",19,Morning Peak,32,21.22,II,90
+84,Stop_32,Stop_27,"Stop_32, Stop_29, Stop_15, Stop_10, Stop_5, Stop_23, Stop_7, Stop_39, Stop_32, Stop_22, Stop_27",19,Morning Off-Peak,25,21.22,I,60
+84,Stop_32,Stop_27,"Stop_32, Stop_29, Stop_15, Stop_10, Stop_5, Stop_23, Stop_7, Stop_39, Stop_32, Stop_22, Stop_27",19,Morning Off-Peak,32,21.22,II,90
+84,Stop_32,Stop_27,"Stop_32, Stop_29, Stop_15, Stop_10, Stop_5, Stop_23, Stop_7, Stop_39, Stop_32, Stop_22, Stop_27",19,Evening Peak,34,21.22,I,60
+84,Stop_32,Stop_27,"Stop_32, Stop_29, Stop_15, Stop_10, Stop_5, Stop_23, Stop_7, Stop_39, Stop_32, Stop_22, Stop_27",19,Evening Peak,32,21.22,II,90
+84,Stop_32,Stop_27,"Stop_32, Stop_29, Stop_15, Stop_10, Stop_5, Stop_23, Stop_7, Stop_39, Stop_32, Stop_22, Stop_27",19,Evening Off-Peak,35,21.22,I,60
+84,Stop_32,Stop_27,"Stop_32, Stop_29, Stop_15, Stop_10, Stop_5, Stop_23, Stop_7, Stop_39, Stop_32, Stop_22, Stop_27",19,Evening Off-Peak,38,21.22,II,90
+85,Stop_27,Stop_31,"Stop_27, Stop_34, Stop_1, Stop_16, Stop_38, Stop_24, Stop_15, Stop_10, Stop_7, Stop_37, Stop_22, Stop_31",18,Morning Peak,36,28.18,I,60
+85,Stop_27,Stop_31,"Stop_27, Stop_34, Stop_1, Stop_16, Stop_38, Stop_24, Stop_15, Stop_10, Stop_7, Stop_37, Stop_22, Stop_31",18,Morning Peak,54,28.18,II,90
+85,Stop_27,Stop_31,"Stop_27, Stop_34, Stop_1, Stop_16, Stop_38, Stop_24, Stop_15, Stop_10, Stop_7, Stop_37, Stop_22, Stop_31",18,Morning Off-Peak,33,28.18,I,60
+85,Stop_27,Stop_31,"Stop_27, Stop_34, Stop_1, Stop_16, Stop_38, Stop_24, Stop_15, Stop_10, Stop_7, Stop_37, Stop_22, Stop_31",18,Morning Off-Peak,54,28.18,II,90
+85,Stop_27,Stop_31,"Stop_27, Stop_34, Stop_1, Stop_16, Stop_38, Stop_24, Stop_15, Stop_10, Stop_7, Stop_37, Stop_22, Stop_31",18,Evening Peak,34,28.18,I,60
+85,Stop_27,Stop_31,"Stop_27, Stop_34, Stop_1, Stop_16, Stop_38, Stop_24, Stop_15, Stop_10, Stop_7, Stop_37, Stop_22, Stop_31",18,Evening Peak,47,28.18,II,90
+85,Stop_27,Stop_31,"Stop_27, Stop_34, Stop_1, Stop_16, Stop_38, Stop_24, Stop_15, Stop_10, Stop_7, Stop_37, Stop_22, Stop_31",18,Evening Off-Peak,33,28.18,I,60
+85,Stop_27,Stop_31,"Stop_27, Stop_34, Stop_1, Stop_16, Stop_38, Stop_24, Stop_15, Stop_10, Stop_7, Stop_37, Stop_22, Stop_31",18,Evening Off-Peak,57,28.18,II,90
+86,Stop_31,Stop_29,"Stop_31, Stop_34, Stop_28, Stop_20, Stop_27, Stop_33, Stop_4, Stop_32, Stop_3, Stop_9, Stop_29",12,Morning Peak,35,24.6,I,60
+86,Stop_31,Stop_29,"Stop_31, Stop_34, Stop_28, Stop_20, Stop_27, Stop_33, Stop_4, Stop_32, Stop_3, Stop_9, Stop_29",12,Morning Peak,42,24.6,II,90
+86,Stop_31,Stop_29,"Stop_31, Stop_34, Stop_28, Stop_20, Stop_27, Stop_33, Stop_4, Stop_32, Stop_3, Stop_9, Stop_29",12,Morning Off-Peak,37,24.6,I,60
+86,Stop_31,Stop_29,"Stop_31, Stop_34, Stop_28, Stop_20, Stop_27, Stop_33, Stop_4, Stop_32, Stop_3, Stop_9, Stop_29",12,Morning Off-Peak,39,24.6,II,90
+86,Stop_31,Stop_29,"Stop_31, Stop_34, Stop_28, Stop_20, Stop_27, Stop_33, Stop_4, Stop_32, Stop_3, Stop_9, Stop_29",12,Evening Peak,34,24.6,I,60
+86,Stop_31,Stop_29,"Stop_31, Stop_34, Stop_28, Stop_20, Stop_27, Stop_33, Stop_4, Stop_32, Stop_3, Stop_9, Stop_29",12,Evening Peak,42,24.6,II,90
+86,Stop_31,Stop_29,"Stop_31, Stop_34, Stop_28, Stop_20, Stop_27, Stop_33, Stop_4, Stop_32, Stop_3, Stop_9, Stop_29",12,Evening Off-Peak,30,24.6,I,60
+86,Stop_31,Stop_29,"Stop_31, Stop_34, Stop_28, Stop_20, Stop_27, Stop_33, Stop_4, Stop_32, Stop_3, Stop_9, Stop_29",12,Evening Off-Peak,50,24.6,II,90
+87,Stop_29,Stop_32,"Stop_29, Stop_1, Stop_19, Stop_24, Stop_28, Stop_18, Stop_23, Stop_33, Stop_12, Stop_26, Stop_37, Stop_22, Stop_32",7,Morning Peak,22,11.48,I,60
+87,Stop_29,Stop_32,"Stop_29, Stop_1, Stop_19, Stop_24, Stop_28, Stop_18, Stop_23, Stop_33, Stop_12, Stop_26, Stop_37, Stop_22, Stop_32",7,Morning Peak,52,11.48,II,90
+87,Stop_29,Stop_32,"Stop_29, Stop_1, Stop_19, Stop_24, Stop_28, Stop_18, Stop_23, Stop_33, Stop_12, Stop_26, Stop_37, Stop_22, Stop_32",7,Morning Off-Peak,35,11.48,I,60
+87,Stop_29,Stop_32,"Stop_29, Stop_1, Stop_19, Stop_24, Stop_28, Stop_18, Stop_23, Stop_33, Stop_12, Stop_26, Stop_37, Stop_22, Stop_32",7,Morning Off-Peak,57,11.48,II,90
+87,Stop_29,Stop_32,"Stop_29, Stop_1, Stop_19, Stop_24, Stop_28, Stop_18, Stop_23, Stop_33, Stop_12, Stop_26, Stop_37, Stop_22, Stop_32",7,Evening Peak,31,11.48,I,60
+87,Stop_29,Stop_32,"Stop_29, Stop_1, Stop_19, Stop_24, Stop_28, Stop_18, Stop_23, Stop_33, Stop_12, Stop_26, Stop_37, Stop_22, Stop_32",7,Evening Peak,50,11.48,II,90
+87,Stop_29,Stop_32,"Stop_29, Stop_1, Stop_19, Stop_24, Stop_28, Stop_18, Stop_23, Stop_33, Stop_12, Stop_26, Stop_37, Stop_22, Stop_32",7,Evening Off-Peak,28,11.48,I,60
+87,Stop_29,Stop_32,"Stop_29, Stop_1, Stop_19, Stop_24, Stop_28, Stop_18, Stop_23, Stop_33, Stop_12, Stop_26, Stop_37, Stop_22, Stop_32",7,Evening Off-Peak,48,11.48,II,90
+88,Stop_32,Stop_33,"Stop_32, Stop_24, Stop_15, Stop_18, Stop_23, Stop_7, Stop_33, Stop_27, Stop_20, Stop_21, Stop_39, Stop_33",10,Morning Peak,32,18.31,I,60
+88,Stop_32,Stop_33,"Stop_32, Stop_24, Stop_15, Stop_18, Stop_23, Stop_7, Stop_33, Stop_27, Stop_20, Stop_21, Stop_39, Stop_33",10,Morning Peak,55,18.31,II,90
+88,Stop_32,Stop_33,"Stop_32, Stop_24, Stop_15, Stop_18, Stop_23, Stop_7, Stop_33, Stop_27, Stop_20, Stop_21, Stop_39, Stop_33",10,Morning Off-Peak,39,18.31,I,60
+88,Stop_32,Stop_33,"Stop_32, Stop_24, Stop_15, Stop_18, Stop_23, Stop_7, Stop_33, Stop_27, Stop_20, Stop_21, Stop_39, Stop_33",10,Morning Off-Peak,57,18.31,II,90
+88,Stop_32,Stop_33,"Stop_32, Stop_24, Stop_15, Stop_18, Stop_23, Stop_7, Stop_33, Stop_27, Stop_20, Stop_21, Stop_39, Stop_33",10,Evening Peak,21,18.31,I,60
+88,Stop_32,Stop_33,"Stop_32, Stop_24, Stop_15, Stop_18, Stop_23, Stop_7, Stop_33, Stop_27, Stop_20, Stop_21, Stop_39, Stop_33",10,Evening Peak,38,18.31,II,90
+88,Stop_32,Stop_33,"Stop_32, Stop_24, Stop_15, Stop_18, Stop_23, Stop_7, Stop_33, Stop_27, Stop_20, Stop_21, Stop_39, Stop_33",10,Evening Off-Peak,25,18.31,I,60
+88,Stop_32,Stop_33,"Stop_32, Stop_24, Stop_15, Stop_18, Stop_23, Stop_7, Stop_33, Stop_27, Stop_20, Stop_21, Stop_39, Stop_33",10,Evening Off-Peak,43,18.31,II,90
+89,Stop_33,Stop_33,"Stop_33, Stop_19, Stop_24, Stop_18, Stop_33, Stop_35, Stop_33",5,Morning Peak,32,18.48,I,60
+89,Stop_33,Stop_33,"Stop_33, Stop_19, Stop_24, Stop_18, Stop_33, Stop_35, Stop_33",5,Morning Peak,60,18.48,II,90
+89,Stop_33,Stop_33,"Stop_33, Stop_19, Stop_24, Stop_18, Stop_33, Stop_35, Stop_33",5,Morning Off-Peak,21,18.48,I,60
+89,Stop_33,Stop_33,"Stop_33, Stop_19, Stop_24, Stop_18, Stop_33, Stop_35, Stop_33",5,Morning Off-Peak,48,18.48,II,90
+89,Stop_33,Stop_33,"Stop_33, Stop_19, Stop_24, Stop_18, Stop_33, Stop_35, Stop_33",5,Evening Peak,38,18.48,I,60
+89,Stop_33,Stop_33,"Stop_33, Stop_19, Stop_24, Stop_18, Stop_33, Stop_35, Stop_33",5,Evening Peak,48,18.48,II,90
+89,Stop_33,Stop_33,"Stop_33, Stop_19, Stop_24, Stop_18, Stop_33, Stop_35, Stop_33",5,Evening Off-Peak,31,18.48,I,60
+89,Stop_33,Stop_33,"Stop_33, Stop_19, Stop_24, Stop_18, Stop_33, Stop_35, Stop_33",5,Evening Off-Peak,54,18.48,II,90
+90,Stop_33,Stop_31,"Stop_33, Stop_9, Stop_24, Stop_15, Stop_10, Stop_31, Stop_18, Stop_30, Stop_39, Stop_4, Stop_32, Stop_6, Stop_31",12,Morning Peak,28,26.03,I,60
+90,Stop_33,Stop_31,"Stop_33, Stop_9, Stop_24, Stop_15, Stop_10, Stop_31, Stop_18, Stop_30, Stop_39, Stop_4, Stop_32, Stop_6, Stop_31",12,Morning Peak,45,26.03,II,90
+90,Stop_33,Stop_31,"Stop_33, Stop_9, Stop_24, Stop_15, Stop_10, Stop_31, Stop_18, Stop_30, Stop_39, Stop_4, Stop_32, Stop_6, Stop_31",12,Morning Off-Peak,39,26.03,I,60
+90,Stop_33,Stop_31,"Stop_33, Stop_9, Stop_24, Stop_15, Stop_10, Stop_31, Stop_18, Stop_30, Stop_39, Stop_4, Stop_32, Stop_6, Stop_31",12,Morning Off-Peak,49,26.03,II,90
+90,Stop_33,Stop_31,"Stop_33, Stop_9, Stop_24, Stop_15, Stop_10, Stop_31, Stop_18, Stop_30, Stop_39, Stop_4, Stop_32, Stop_6, Stop_31",12,Evening Peak,21,26.03,I,60
+90,Stop_33,Stop_31,"Stop_33, Stop_9, Stop_24, Stop_15, Stop_10, Stop_31, Stop_18, Stop_30, Stop_39, Stop_4, Stop_32, Stop_6, Stop_31",12,Evening Peak,39,26.03,II,90
+90,Stop_33,Stop_31,"Stop_33, Stop_9, Stop_24, Stop_15, Stop_10, Stop_31, Stop_18, Stop_30, Stop_39, Stop_4, Stop_32, Stop_6, Stop_31",12,Evening Off-Peak,28,26.03,I,60
+90,Stop_33,Stop_31,"Stop_33, Stop_9, Stop_24, Stop_15, Stop_10, Stop_31, Stop_18, Stop_30, Stop_39, Stop_4, Stop_32, Stop_6, Stop_31",12,Evening Off-Peak,43,26.03,II,90
+91,Stop_31,Stop_21,"Stop_31, Stop_13, Stop_36, Stop_12, Stop_37, Stop_21",9,Morning Peak,28,15.65,I,60
+91,Stop_31,Stop_21,"Stop_31, Stop_13, Stop_36, Stop_12, Stop_37, Stop_21",9,Morning Peak,51,15.65,II,90
+91,Stop_31,Stop_21,"Stop_31, Stop_13, Stop_36, Stop_12, Stop_37, Stop_21",9,Morning Off-Peak,27,15.65,I,60
+91,Stop_31,Stop_21,"Stop_31, Stop_13, Stop_36, Stop_12, Stop_37, Stop_21",9,Morning Off-Peak,58,15.65,II,90
+91,Stop_31,Stop_21,"Stop_31, Stop_13, Stop_36, Stop_12, Stop_37, Stop_21",9,Evening Peak,24,15.65,I,60
+91,Stop_31,Stop_21,"Stop_31, Stop_13, Stop_36, Stop_12, Stop_37, Stop_21",9,Evening Peak,47,15.65,II,90
+91,Stop_31,Stop_21,"Stop_31, Stop_13, Stop_36, Stop_12, Stop_37, Stop_21",9,Evening Off-Peak,36,15.65,I,60
+91,Stop_31,Stop_21,"Stop_31, Stop_13, Stop_36, Stop_12, Stop_37, Stop_21",9,Evening Off-Peak,42,15.65,II,90
+92,Stop_21,Stop_20,"Stop_21, Stop_19, Stop_11, Stop_5, Stop_18, Stop_20, Stop_22, Stop_3, Stop_35, Stop_6, Stop_20",23,Morning Peak,35,26,I,60
+92,Stop_21,Stop_20,"Stop_21, Stop_19, Stop_11, Stop_5, Stop_18, Stop_20, Stop_22, Stop_3, Stop_35, Stop_6, Stop_20",23,Morning Peak,54,26,II,90
+92,Stop_21,Stop_20,"Stop_21, Stop_19, Stop_11, Stop_5, Stop_18, Stop_20, Stop_22, Stop_3, Stop_35, Stop_6, Stop_20",23,Morning Off-Peak,33,26,I,60
+92,Stop_21,Stop_20,"Stop_21, Stop_19, Stop_11, Stop_5, Stop_18, Stop_20, Stop_22, Stop_3, Stop_35, Stop_6, Stop_20",23,Morning Off-Peak,33,26,II,90
+92,Stop_21,Stop_20,"Stop_21, Stop_19, Stop_11, Stop_5, Stop_18, Stop_20, Stop_22, Stop_3, Stop_35, Stop_6, Stop_20",23,Evening Peak,36,26,I,60
+92,Stop_21,Stop_20,"Stop_21, Stop_19, Stop_11, Stop_5, Stop_18, Stop_20, Stop_22, Stop_3, Stop_35, Stop_6, Stop_20",23,Evening Peak,51,26,II,90
+92,Stop_21,Stop_20,"Stop_21, Stop_19, Stop_11, Stop_5, Stop_18, Stop_20, Stop_22, Stop_3, Stop_35, Stop_6, Stop_20",23,Evening Off-Peak,35,26,I,60
+92,Stop_21,Stop_20,"Stop_21, Stop_19, Stop_11, Stop_5, Stop_18, Stop_20, Stop_22, Stop_3, Stop_35, Stop_6, Stop_20",23,Evening Off-Peak,46,26,II,90
+93,Stop_20,Stop_17,"Stop_20, Stop_17, Stop_34, Stop_29, Stop_24, Stop_10, Stop_18, Stop_23, Stop_25, Stop_36, Stop_6, Stop_17",15,Morning Peak,38,30,I,60
+93,Stop_20,Stop_17,"Stop_20, Stop_17, Stop_34, Stop_29, Stop_24, Stop_10, Stop_18, Stop_23, Stop_25, Stop_36, Stop_6, Stop_17",15,Morning Peak,32,30,II,90
+93,Stop_20,Stop_17,"Stop_20, Stop_17, Stop_34, Stop_29, Stop_24, Stop_10, Stop_18, Stop_23, Stop_25, Stop_36, Stop_6, Stop_17",15,Morning Off-Peak,33,30,I,60
+93,Stop_20,Stop_17,"Stop_20, Stop_17, Stop_34, Stop_29, Stop_24, Stop_10, Stop_18, Stop_23, Stop_25, Stop_36, Stop_6, Stop_17",15,Morning Off-Peak,50,30,II,90
+93,Stop_20,Stop_17,"Stop_20, Stop_17, Stop_34, Stop_29, Stop_24, Stop_10, Stop_18, Stop_23, Stop_25, Stop_36, Stop_6, Stop_17",15,Evening Peak,27,30,I,60
+93,Stop_20,Stop_17,"Stop_20, Stop_17, Stop_34, Stop_29, Stop_24, Stop_10, Stop_18, Stop_23, Stop_25, Stop_36, Stop_6, Stop_17",15,Evening Peak,51,30,II,90
+93,Stop_20,Stop_17,"Stop_20, Stop_17, Stop_34, Stop_29, Stop_24, Stop_10, Stop_18, Stop_23, Stop_25, Stop_36, Stop_6, Stop_17",15,Evening Off-Peak,32,30,I,60
+93,Stop_20,Stop_17,"Stop_20, Stop_17, Stop_34, Stop_29, Stop_24, Stop_10, Stop_18, Stop_23, Stop_25, Stop_36, Stop_6, Stop_17",15,Evening Off-Peak,37,30,II,90
